@@ -1,0 +1,4552 @@
+/*
+ * Copyright (c) 10/07/23, 15:26.
+ * Created By WebZow Soluções Digitais.
+ * Site: https://webzow.com
+ * Discord: https://discord.gg/TgCccsKSYu
+ */
+
+.elementor-9030 .elementor-element.elementor-element-ae0671e:not(.elementor-motion-effects-element-type-background), .elementor-9030 .elementor-element.elementor-element-ae0671e > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: transparent;
+    /* background-image: linear-gradient(180deg, #000000 10%, #169B9040 90%) */
+    background-image: linear-gradient(180deg, #206215 10%, #0c0c0c 100%)
+}
+
+.elementor-9030 .elementor-element.elementor-element-ae0671e {
+    border-style: solid;
+    border-width: 0 0 1px;
+    border-color: #175a08;
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 10px 20px;
+    z-index: 10
+}
+
+.elementor-9030 .elementor-element.elementor-element-ae0671e > .elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-bc-flex-widget .elementor-9030 .elementor-element.elementor-element-4ebbeaa.elementor-column .elementor-widget-wrap {
+    align-items: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-4ebbeaa.elementor-column.elementor-element[data-element_type=column] > .elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-4ebbeaa > .elementor-element-populated {
+    padding: 0 5px 0 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-186c4d7 {
+    text-align: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-186c4d7 img {
+    width: 80%
+}
+
+.elementor-bc-flex-widget .elementor-9030 .elementor-element.elementor-element-6c83627.elementor-column .elementor-widget-wrap {
+    align-items: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-6c83627.elementor-column.elementor-element[data-element_type=column] > .elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-6c83627 > .elementor-element-populated {
+    border-style: solid;
+    border-width: 0 0 0 1px;
+    border-color: #169b90;
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 0 0 0 10px
+}
+
+.elementor-9030 .elementor-element.elementor-element-6c83627 > .elementor-element-populated > .elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-9030 .elementor-element.elementor-element-c8032b3 {
+    text-align: left
+}
+
+.elementor-9030 .elementor-element.elementor-element-c8032b3 .elementor-heading-title {
+    color: #fff;
+    font-family: montserrat, Sans-serif;
+    font-weight: 500;
+    line-height: 1.25em
+}
+
+.elementor-bc-flex-widget .elementor-9030 .elementor-element.elementor-element-23561ca.elementor-column .elementor-widget-wrap {
+    align-items: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-23561ca.elementor-column.elementor-element[data-element_type=column] > .elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-23561ca.elementor-column > .elementor-widget-wrap {
+    justify-content: flex-end
+}
+
+.elementor-9030 .elementor-element.elementor-element-23561ca > .elementor-element-populated {
+    margin: 0 10px 0 0;
+    --e-column-margin-right: 10px;
+    --e-column-margin-left: 0px
+}
+
+.elementor-9030 .elementor-element.elementor-element-db10319 {
+    --lottie-container-width: 100%;
+    width: auto;
+    max-width: auto;
+    align-self: center
+}
+
+.elementor-bc-flex-widget .elementor-9030 .elementor-element.elementor-element-317e74f.elementor-column .elementor-widget-wrap {
+    align-items: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-317e74f.elementor-column.elementor-element[data-element_type=column] > .elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-317e74f.elementor-column > .elementor-widget-wrap {
+    justify-content: flex-end
+}
+
+.elementor-9030 .elementor-element.elementor-element-317e74f > .elementor-element-populated {
+    margin: 0 10px 0 0;
+    --e-column-margin-right: 10px;
+    --e-column-margin-left: 0px
+}
+
+.elementor-9030 .elementor-element.elementor-element-d229a7a .elementor-icon-wrapper {
+    text-align: right
+}
+
+.elementor-9030 .elementor-element.elementor-element-d229a7a.elementor-view-stacked .elementor-icon {
+    background-color: #fff
+}
+
+.elementor-9030 .elementor-element.elementor-element-d229a7a.elementor-view-framed .elementor-icon, .elementor-9030 .elementor-element.elementor-element-d229a7a.elementor-view-default .elementor-icon {
+    color: #fff;
+    border-color: #fff
+}
+
+.elementor-9030 .elementor-element.elementor-element-d229a7a.elementor-view-framed .elementor-icon, .elementor-9030 .elementor-element.elementor-element-d229a7a.elementor-view-default .elementor-icon svg {
+    fill: #fff
+}
+
+.elementor-9030 .elementor-element.elementor-element-d229a7a.elementor-view-stacked .elementor-icon:hover {
+    background-color: #54caa0
+}
+
+.elementor-9030 .elementor-element.elementor-element-d229a7a.elementor-view-framed .elementor-icon:hover, .elementor-9030 .elementor-element.elementor-element-d229a7a.elementor-view-default .elementor-icon:hover {
+    color: #54caa0;
+    border-color: #54caa0
+}
+
+.elementor-9030 .elementor-element.elementor-element-d229a7a.elementor-view-framed .elementor-icon:hover, .elementor-9030 .elementor-element.elementor-element-d229a7a.elementor-view-default .elementor-icon:hover svg {
+    fill: #54caa0
+}
+
+.elementor-9030 .elementor-element.elementor-element-d229a7a .elementor-icon {
+    font-size: 28px
+}
+
+.elementor-9030 .elementor-element.elementor-element-d229a7a > .elementor-widget-container {
+    padding: 5px 0 0 5px
+}
+
+.elementor-9030 .elementor-element.elementor-element-d229a7a {
+    width: auto;
+    max-width: auto;
+    align-self: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-67e63b4 > .elementor-container {
+    max-width: 480px;
+    min-height: 80vh
+}
+
+.elementor-9030 .elementor-element.elementor-element-67e63b4 {
+    padding: 1rem .5rem 7rem
+}
+
+.elementor-bc-flex-widget .elementor-9030 .elementor-element.elementor-element-7bdeb74.elementor-column .elementor-widget-wrap {
+    align-items: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-7bdeb74.elementor-column.elementor-element[data-element_type=column] > .elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-7bdeb74.elementor-column > .elementor-widget-wrap {
+    justify-content: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-7bdeb74 > .elementor-element-populated {
+    padding: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-9162269 img {
+    border-radius: 6px 6px 6px 6px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5)
+}
+
+.elementor-9030 .elementor-element.elementor-element-f659d7e {
+    margin-top: -5px;
+    margin-bottom: 10px
+}
+
+.elementor-9030 .elementor-element.elementor-element-3c447c1:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-9030 .elementor-element.elementor-element-3c447c1 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #1d2023c7
+}
+
+.elementor-9030 .elementor-element.elementor-element-3c447c1 > .elementor-element-populated, .elementor-9030 .elementor-element.elementor-element-3c447c1 > .elementor-element-populated > .elementor-background-overlay, .elementor-9030 .elementor-element.elementor-element-3c447c1 > .elementor-background-slideshow {
+    border-radius: 5px 5px 5px 5px
+}
+
+.elementor-9030 .elementor-element.elementor-element-3c447c1 > .elementor-element-populated {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s
+}
+
+.elementor-9030 .elementor-element.elementor-element-3c447c1 > .elementor-element-populated > .elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-9030 .elementor-element.elementor-element-2799c3e {
+    text-align: left;
+    color: #fff;
+    font-family: roboto, Sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1em;
+    z-index: 100
+}
+
+.elementor-9030 .elementor-element.elementor-element-2799c3e > .elementor-widget-container {
+    margin: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-4c7a00b {
+    text-align: left;
+    color: #c6c6ca;
+    font-family: roboto, Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: italic;
+    line-height: 1.1em;
+    z-index: 100
+}
+
+.elementor-9030 .elementor-element.elementor-element-4c7a00b > .elementor-widget-container {
+    margin: -10px 0 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-ea35170 {
+    text-align: left;
+    color: #56cca1;
+    font-family: roboto, Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    font-style: italic;
+    line-height: 1.1em;
+    z-index: 100
+}
+
+.elementor-9030 .elementor-element.elementor-element-ea35170 > .elementor-widget-container {
+    margin: -10px 0 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-434bf5e .elementor-button .elementor-align-icon-right {
+    margin-left: 5px
+}
+
+.elementor-9030 .elementor-element.elementor-element-434bf5e .elementor-button .elementor-align-icon-left {
+    margin-right: 5px
+}
+
+.elementor-9030 .elementor-element.elementor-element-434bf5e .elementor-button {
+    font-family: roboto, Sans-serif;
+    font-size: 21px;
+    font-weight: 600;
+    fill: #051415;
+    color: #051415;
+    background-color: transparent;
+    background-image: linear-gradient(145deg, #FFC800 0%, #FFD745 100%);
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: #ffe99a;
+    border-radius: 5px 5px 5px 5px;
+    padding: 14px 36px
+}
+
+.elementor-9030 .elementor-element.elementor-element-434bf5e > .elementor-widget-container {
+    margin: 10px 0 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-f25b2c7:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-9030 .elementor-element.elementor-element-f25b2c7 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #0a2f31bf
+}
+
+.elementor-9030 .elementor-element.elementor-element-f25b2c7 > .elementor-element-populated, .elementor-9030 .elementor-element.elementor-element-f25b2c7 > .elementor-element-populated > .elementor-background-overlay, .elementor-9030 .elementor-element.elementor-element-f25b2c7 > .elementor-background-slideshow {
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-f25b2c7 > .elementor-element-populated {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s
+}
+
+.elementor-9030 .elementor-element.elementor-element-f25b2c7 > .elementor-element-populated > .elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-9030 .elementor-element.elementor-element-06dac1b {
+    text-align: center;
+    color: #ffc107;
+    font-family: roboto, Sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 1em;
+    z-index: 100
+}
+
+.elementor-9030 .elementor-element.elementor-element-06dac1b > .elementor-widget-container {
+    margin: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-7189ae1 {
+    text-align: center;
+    color: #fff;
+    font-family: roboto, Sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: uppercase;
+    line-height: 1em;
+    z-index: 100
+}
+
+.elementor-9030 .elementor-element.elementor-element-7189ae1 > .elementor-widget-container {
+    margin: -10px 0 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-348d3df .elementor-icon-list-icon i {
+    color: #5aca54;
+    transition: color .3s
+}
+
+.elementor-9030 .elementor-element.elementor-element-348d3df .elementor-icon-list-icon svg {
+    fill: #5aca54;
+    transition: fill .3s
+}
+
+.elementor-9030 .elementor-element.elementor-element-348d3df {
+    --e-icon-list-icon-size: 14px;
+    --icon-vertical-offset: 0px
+}
+
+.elementor-9030 .elementor-element.elementor-element-348d3df .elementor-icon-list-item > .elementor-icon-list-text, .elementor-9030 .elementor-element.elementor-element-348d3df .elementor-icon-list-item > a {
+    font-family: roboto, Sans-serif;
+    font-weight: 400
+}
+
+.elementor-9030 .elementor-element.elementor-element-348d3df .elementor-icon-list-text {
+    color: #fff;
+    transition: color .3s
+}
+
+.elementor-9030 .elementor-element.elementor-element-c200c84 {
+    text-align: center;
+    color: #fff;
+    font-family: roboto, Sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1em;
+    z-index: 100
+}
+
+.elementor-9030 .elementor-element.elementor-element-c200c84 > .elementor-widget-container {
+    margin: -10px 0 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-c2cc650 .elementor-icon-list-icon i {
+    color: #5aca54;
+    transition: color .3s
+}
+
+.elementor-9030 .elementor-element.elementor-element-c2cc650 .elementor-icon-list-icon svg {
+    fill: #5aca54;
+    transition: fill .3s
+}
+
+.elementor-9030 .elementor-element.elementor-element-c2cc650 {
+    --e-icon-list-icon-size: 14px;
+    --icon-vertical-offset: 0px
+}
+
+.elementor-9030 .elementor-element.elementor-element-c2cc650 .elementor-icon-list-item > .elementor-icon-list-text, .elementor-9030 .elementor-element.elementor-element-c2cc650 .elementor-icon-list-item > a {
+    font-family: roboto, Sans-serif;
+    font-weight: 400
+}
+
+.elementor-9030 .elementor-element.elementor-element-c2cc650 .elementor-icon-list-text {
+    color: #fff;
+    transition: color .3s
+}
+
+.elementor-9030 .elementor-element.elementor-element-61ea4c4 > .elementor-container {
+    max-width: 540px;
+    min-height: 85vh
+}
+
+.elementor-9030 .elementor-element.elementor-element-61ea4c4 {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: .5rem .2rem 5rem
+}
+
+.elementor-9030 .elementor-element.elementor-element-61ea4c4 > .elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-9030 .elementor-element.elementor-element-0a23362 {
+    text-align: center;
+    color: #fff;
+    font-family: roboto, Sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 1.3em
+}
+
+.elementor-9030 .elementor-element.elementor-element-0a23362 > .elementor-widget-container {
+    margin: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-501305c {
+    margin-top: -15px;
+    margin-bottom: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-788f9dd:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-9030 .elementor-element.elementor-element-788f9dd > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #002320b3
+}
+
+.elementor-9030 .elementor-element.elementor-element-788f9dd > .elementor-element-populated, .elementor-9030 .elementor-element.elementor-element-788f9dd > .elementor-element-populated > .elementor-background-overlay, .elementor-9030 .elementor-element.elementor-element-788f9dd > .elementor-background-slideshow {
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-788f9dd > .elementor-element-populated {
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    margin: 0;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 15px
+}
+
+.elementor-9030 .elementor-element.elementor-element-788f9dd > .elementor-element-populated > .elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-9030 .elementor-element.elementor-element-e548ef7 {
+    text-align: center;
+    color: #fff;
+    font-family: roboto, Sans-serif;
+    font-size: 15px;
+    font-weight: 400
+}
+
+.elementor-9030 .elementor-element.elementor-element-e548ef7 > .elementor-widget-container {
+    margin: -15px 0 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-0d3b46c .elementor-button {
+    font-family: roboto, Sans-serif;
+    font-weight: 500;
+    fill: #fff;
+    color: #fff;
+    background-color: transparent;
+    background-image: linear-gradient(145deg, #0E3900 0%, #2DB600 100%);
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: #63ff79;
+    border-radius: 6px 6px 6px 6px;
+    padding: 15px 20px
+}
+
+.elementor-9030 .elementor-element.elementor-element-e308253 {
+    --divider-border-style: solid;
+    --divider-color: #000;
+    --divider-border-width: 1px
+}
+
+.elementor-9030 .elementor-element.elementor-element-e308253 .elementor-divider-separator {
+    width: 100%
+}
+
+.elementor-9030 .elementor-element.elementor-element-e308253 .elementor-divider {
+    padding-top: 0;
+    padding-bottom: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-e308253 > .elementor-widget-container {
+    margin: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-72b43d5 {
+    --lottie-container-width: 10%
+}
+
+.elementor-9030 .elementor-element.elementor-element-72b43d5 > .elementor-widget-container {
+    margin: -15px 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-7f59d83:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-9030 .elementor-element.elementor-element-7f59d83 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #002320b3
+}
+
+.elementor-9030 .elementor-element.elementor-element-7f59d83 > .elementor-element-populated, .elementor-9030 .elementor-element.elementor-element-7f59d83 > .elementor-element-populated > .elementor-background-overlay, .elementor-9030 .elementor-element.elementor-element-7f59d83 > .elementor-background-slideshow {
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-7f59d83 > .elementor-element-populated {
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    margin: 0;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 15px
+}
+
+.elementor-9030 .elementor-element.elementor-element-7f59d83 > .elementor-element-populated > .elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-9030 .elementor-element.elementor-element-fd55d03 img {
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-fd55d03 > .elementor-widget-container {
+    border-radius: 6px 6px 6px 6px;
+    box-shadow: 0 0 10px 0 rgba(19.74884510869565, 190.5, 176.37772403154634, .55)
+}
+
+.elementor-9030 .elementor-element.elementor-element-9f487ae {
+    text-align: center;
+    color: #fff;
+    font-family: roboto, Sans-serif;
+    font-size: 15px;
+    font-weight: 400
+}
+
+.elementor-9030 .elementor-element.elementor-element-9f487ae > .elementor-widget-container {
+    margin: -15px 0 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-fe79f18 .elementor-button {
+    font-family: roboto, Sans-serif;
+    font-weight: 600;
+    fill: #fff;
+    color: #fff;
+    background-color: transparent;
+    background-image: linear-gradient(145deg, #1A78A5 0%, #2AABEE 100%);
+    border-style: none;
+    border-radius: 6px 6px 6px 6px;
+    padding: 5px 20px
+}
+
+.elementor-9030 .elementor-element.elementor-element-faceea5 {
+    --divider-border-style: solid;
+    --divider-color: #000;
+    --divider-border-width: 1px
+}
+
+.elementor-9030 .elementor-element.elementor-element-faceea5 .elementor-divider-separator {
+    width: 100%
+}
+
+.elementor-9030 .elementor-element.elementor-element-faceea5 .elementor-divider {
+    padding-top: 0;
+    padding-bottom: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-faceea5 > .elementor-widget-container {
+    margin: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-89cd904 {
+    --lottie-container-width: 10%
+}
+
+.elementor-9030 .elementor-element.elementor-element-89cd904 > .elementor-widget-container {
+    margin: -15px 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-ab93fc7:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-9030 .elementor-element.elementor-element-ab93fc7 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #002320b3
+}
+
+.elementor-9030 .elementor-element.elementor-element-ab93fc7 > .elementor-element-populated, .elementor-9030 .elementor-element.elementor-element-ab93fc7 > .elementor-element-populated > .elementor-background-overlay, .elementor-9030 .elementor-element.elementor-element-ab93fc7 > .elementor-background-slideshow {
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-ab93fc7 > .elementor-element-populated {
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    margin: 0;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 15px
+}
+
+.elementor-9030 .elementor-element.elementor-element-ab93fc7 > .elementor-element-populated > .elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-9030 .elementor-element.elementor-element-0bebf4a img {
+    filter: brightness(100%) contrast(100%) saturate(0%) blur(0.7px) hue-rotate(0deg);
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-13eeaa0 {
+    text-align: center;
+    color: #fff;
+    font-family: roboto, Sans-serif;
+    font-size: 15px;
+    font-weight: 400
+}
+
+.elementor-9030 .elementor-element.elementor-element-13eeaa0 > .elementor-widget-container {
+    margin: -15px 0 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-f095462 .elementor-button .elementor-align-icon-right {
+    margin-left: 5px
+}
+
+.elementor-9030 .elementor-element.elementor-element-f095462 .elementor-button .elementor-align-icon-left {
+    margin-right: 5px
+}
+
+.elementor-9030 .elementor-element.elementor-element-f095462 .elementor-button {
+    font-family: roboto, Sans-serif;
+    font-size: 21px;
+    font-weight: 600;
+    fill: #051415;
+    color: #051415;
+    background-color: transparent;
+    background-image: linear-gradient(145deg, #FFFFFF 0%, #C7C7C7 100%);
+    border-style: none;
+    border-radius: 5px 5px 5px 5px;
+    padding: 14px 36px
+}
+
+.elementor-9030 .elementor-element.elementor-element-6c1bd44 {
+    --divider-border-style: solid;
+    --divider-color: #000;
+    --divider-border-width: 1px
+}
+
+.elementor-9030 .elementor-element.elementor-element-6c1bd44 .elementor-divider-separator {
+    width: 100%
+}
+
+.elementor-9030 .elementor-element.elementor-element-6c1bd44 .elementor-divider {
+    padding-top: 0;
+    padding-bottom: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-6c1bd44 > .elementor-widget-container {
+    margin: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-eb0cbeb > .elementor-container {
+    max-width: 600px
+}
+
+.elementor-9030 .elementor-element.elementor-element-eb0cbeb .elementor-background-overlay {
+    filter: brightness(100%) contrast(100%) saturate(100%) blur(2px) hue-rotate(0deg)
+}
+
+.elementor-9030 .elementor-element.elementor-element-eb0cbeb, .elementor-9030 .elementor-element.elementor-element-eb0cbeb > .elementor-background-overlay {
+    border-radius: 5px 5px 5px 5px
+}
+
+.elementor-9030 .elementor-element.elementor-element-eb0cbeb {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 0 .5rem 7rem
+}
+
+.elementor-9030 .elementor-element.elementor-element-eb0cbeb > .elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-9030 .elementor-element.elementor-element-e585fd8 > .elementor-element-populated {
+    padding: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-9c913bc {
+    text-align: center;
+    color: #fff;
+    font-family: roboto, Sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 1.2em;
+    z-index: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-9c913bc > .elementor-widget-container {
+    padding: 10px 0 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-f22b6e6 img {
+    width: 95%;
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-f22b6e6:hover img {
+    filter: brightness(120%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg)
+}
+
+.elementor-9030 .elementor-element.elementor-element-f22b6e6 > .elementor-widget-container {
+    padding: .3rem
+}
+
+.elementor-9030 .elementor-element.elementor-element-f22b6e6 {
+    width: var(--container-widget-width, 33.33%);
+    max-width: 33.33%;
+    --container-widget-width: 33.33%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-95c7fd9 img {
+    width: 95%;
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-95c7fd9:hover img {
+    filter: brightness(120%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg)
+}
+
+.elementor-9030 .elementor-element.elementor-element-95c7fd9 > .elementor-widget-container {
+    padding: .3rem
+}
+
+.elementor-9030 .elementor-element.elementor-element-95c7fd9 {
+    width: var(--container-widget-width, 33.33%);
+    max-width: 33.33%;
+    --container-widget-width: 33.33%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-ff77cda img {
+    width: 95%;
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-ff77cda:hover img {
+    filter: brightness(120%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg)
+}
+
+.elementor-9030 .elementor-element.elementor-element-ff77cda > .elementor-widget-container {
+    padding: .3rem
+}
+
+.elementor-9030 .elementor-element.elementor-element-ff77cda {
+    width: var(--container-widget-width, 33.33%);
+    max-width: 33.33%;
+    --container-widget-width: 33.33%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-52314df img {
+    width: 95%;
+    filter: brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-52314df > .elementor-widget-container {
+    padding: .3rem
+}
+
+.elementor-9030 .elementor-element.elementor-element-52314df {
+    width: var(--container-widget-width, 33.33%);
+    max-width: 33.33%;
+    --container-widget-width: 33.33%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-a557e51 img {
+    width: 95%;
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-a557e51 > .elementor-widget-container {
+    padding: .3rem
+}
+
+.elementor-9030 .elementor-element.elementor-element-a557e51 {
+    width: var(--container-widget-width, 33.33%);
+    max-width: 33.33%;
+    --container-widget-width: 33.33%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-545ed7c img {
+    width: 95%;
+    filter: brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-545ed7c > .elementor-widget-container {
+    padding: .3rem
+}
+
+.elementor-9030 .elementor-element.elementor-element-545ed7c {
+    width: var(--container-widget-width, 33.33%);
+    max-width: 33.33%;
+    --container-widget-width: 33.33%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-2d8a0f3 img {
+    width: 95%;
+    filter: brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-2d8a0f3 > .elementor-widget-container {
+    padding: .3rem
+}
+
+.elementor-9030 .elementor-element.elementor-element-2d8a0f3 {
+    width: var(--container-widget-width, 33.33%);
+    max-width: 33.33%;
+    --container-widget-width: 33.33%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-2f57a30 img {
+    width: 95%;
+    filter: brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-2f57a30 > .elementor-widget-container {
+    padding: .3rem
+}
+
+.elementor-9030 .elementor-element.elementor-element-2f57a30 {
+    width: var(--container-widget-width, 33.33%);
+    max-width: 33.33%;
+    --container-widget-width: 33.33%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-6c89e39 img {
+    width: 95%;
+    filter: brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-6c89e39 > .elementor-widget-container {
+    padding: .3rem
+}
+
+.elementor-9030 .elementor-element.elementor-element-6c89e39 {
+    width: var(--container-widget-width, 33.33%);
+    max-width: 33.33%;
+    --container-widget-width: 33.33%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-e84d532 img {
+    width: 95%;
+    filter: brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-e84d532 > .elementor-widget-container {
+    padding: .3rem
+}
+
+.elementor-9030 .elementor-element.elementor-element-e84d532 {
+    width: var(--container-widget-width, 33.33%);
+    max-width: 33.33%;
+    --container-widget-width: 33.33%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-a66fdd6 img {
+    width: 95%;
+    filter: brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-a66fdd6 > .elementor-widget-container {
+    padding: .3rem
+}
+
+.elementor-9030 .elementor-element.elementor-element-a66fdd6 {
+    width: var(--container-widget-width, 33.33%);
+    max-width: 33.33%;
+    --container-widget-width: 33.33%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-a15e805 img {
+    width: 95%;
+    filter: brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-a15e805 > .elementor-widget-container {
+    padding: .3rem
+}
+
+.elementor-9030 .elementor-element.elementor-element-a15e805 {
+    width: var(--container-widget-width, 33.33%);
+    max-width: 33.33%;
+    --container-widget-width: 33.33%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-1a3d7d2 img {
+    width: 95%;
+    filter: brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-1a3d7d2 > .elementor-widget-container {
+    padding: .3rem
+}
+
+.elementor-9030 .elementor-element.elementor-element-1a3d7d2 {
+    width: var(--container-widget-width, 33.33%);
+    max-width: 33.33%;
+    --container-widget-width: 33.33%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-16414ac img {
+    width: 95%;
+    filter: brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-16414ac > .elementor-widget-container {
+    padding: .3rem
+}
+
+.elementor-9030 .elementor-element.elementor-element-16414ac {
+    width: var(--container-widget-width, 33.33%);
+    max-width: 33.33%;
+    --container-widget-width: 33.33%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-080e29f .elementor-button {
+    font-family: roboto, Sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    background-color: transparent;
+    background-image: linear-gradient(145deg, #1E8807 0%, #166205 100%);
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: #56ff54;
+    border-radius: 5px 5px 5px 5px
+}
+
+.elementor-9030 .elementor-element.elementor-element-080e29f > .elementor-widget-container {
+    margin: 1rem 0 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-0e3b86a > .elementor-container {
+    max-width: 600px;
+    min-height: 85vh
+}
+
+.elementor-9030 .elementor-element.elementor-element-0e3b86a:not(.elementor-motion-effects-element-type-background), .elementor-9030 .elementor-element.elementor-element-0e3b86a > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-image: url('../../img/hackerflix2.jpg');
+    background-position: top center;
+    background-repeat: no-repeat
+}
+
+.elementor-9030 .elementor-element.elementor-element-0e3b86a {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 1rem .5rem 7rem
+}
+
+.elementor-9030 .elementor-element.elementor-element-0e3b86a > .elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-9030 .elementor-element.elementor-element-ef9cb0d {
+    text-align: center;
+    color: #fff;
+    font-family: roboto, Sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 1em;
+    z-index: 100
+}
+
+.elementor-9030 .elementor-element.elementor-element-ef9cb0d > .elementor-widget-container {
+    margin: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-776b29d {
+    margin-top: 0;
+    margin-bottom: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-bac84ec:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-9030 .elementor-element.elementor-element-bac84ec > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #002320b3
+}
+
+.elementor-9030 .elementor-element.elementor-element-bac84ec > .elementor-element-populated, .elementor-9030 .elementor-element.elementor-element-bac84ec > .elementor-element-populated > .elementor-background-overlay, .elementor-9030 .elementor-element.elementor-element-bac84ec > .elementor-background-slideshow {
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-bac84ec > .elementor-element-populated {
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    margin: 0;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 15px
+}
+
+.elementor-9030 .elementor-element.elementor-element-bac84ec > .elementor-element-populated > .elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-9030 .elementor-element.elementor-element-072e409 {
+    text-align: center;
+    color: #fff;
+    font-family: roboto, Sans-serif;
+    font-size: 15px;
+    font-weight: 400
+}
+
+.elementor-9030 .elementor-element.elementor-element-072e409 > .elementor-widget-container {
+    margin: -15px 0 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-21c1ed9 .elementor-button {
+    font-family: roboto, Sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    background-color: transparent;
+    background-image: linear-gradient(145deg, #1E8807 0%, #166205 100%);
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: #56ff54;
+    border-radius: 5px 5px 5px 5px
+}
+
+.elementor-9030 .elementor-element.elementor-element-21c1ed9 > .elementor-widget-container {
+    margin: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-cbe456b {
+    --divider-border-style: solid;
+    --divider-color: #000;
+    --divider-border-width: 1px
+}
+
+.elementor-9030 .elementor-element.elementor-element-cbe456b .elementor-divider-separator {
+    width: 100%
+}
+
+.elementor-9030 .elementor-element.elementor-element-cbe456b .elementor-divider {
+    padding-top: 0;
+    padding-bottom: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-cbe456b > .elementor-widget-container {
+    margin: 10px 0 5px
+}
+
+.elementor-9030 .elementor-element.elementor-element-5661f7c {
+    margin-top: -15px;
+    margin-bottom: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-d254df5:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-9030 .elementor-element.elementor-element-d254df5 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #002320b3
+}
+
+.elementor-9030 .elementor-element.elementor-element-d254df5 > .elementor-element-populated, .elementor-9030 .elementor-element.elementor-element-d254df5 > .elementor-element-populated > .elementor-background-overlay, .elementor-9030 .elementor-element.elementor-element-d254df5 > .elementor-background-slideshow {
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-d254df5 > .elementor-element-populated {
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    margin: 0;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 15px
+}
+
+.elementor-9030 .elementor-element.elementor-element-d254df5 > .elementor-element-populated > .elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-9030 .elementor-element.elementor-element-0cf8390 {
+    text-align: center;
+    color: #fff;
+    font-family: roboto, Sans-serif;
+    font-size: 15px;
+    font-weight: 400
+}
+
+.elementor-9030 .elementor-element.elementor-element-0cf8390 > .elementor-widget-container {
+    margin: -15px 0 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-0d13d0d {
+    --divider-border-style: solid;
+    --divider-color: #000;
+    --divider-border-width: 1px
+}
+
+.elementor-9030 .elementor-element.elementor-element-0d13d0d .elementor-divider-separator {
+    width: 100%
+}
+
+.elementor-9030 .elementor-element.elementor-element-0d13d0d .elementor-divider {
+    padding-top: 0;
+    padding-bottom: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-0d13d0d > .elementor-widget-container {
+    margin: 10px 0 5px
+}
+
+.elementor-9030 .elementor-element.elementor-element-a7c2dc3 {
+    margin-top: -15px;
+    margin-bottom: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-3e2e183:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-9030 .elementor-element.elementor-element-3e2e183 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #002320b3
+}
+
+.elementor-9030 .elementor-element.elementor-element-3e2e183 > .elementor-element-populated, .elementor-9030 .elementor-element.elementor-element-3e2e183 > .elementor-element-populated > .elementor-background-overlay, .elementor-9030 .elementor-element.elementor-element-3e2e183 > .elementor-background-slideshow {
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-3e2e183 > .elementor-element-populated {
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    margin: 0;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 15px
+}
+
+.elementor-9030 .elementor-element.elementor-element-3e2e183 > .elementor-element-populated > .elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-9030 .elementor-element.elementor-element-90ae22a .elementor-wrapper {
+    --video-aspect-ratio: 1.77777
+}
+
+.elementor-9030 .elementor-element.elementor-element-90ae22a > .elementor-widget-container {
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5)
+}
+
+.elementor-9030 .elementor-element.elementor-element-39e7541 {
+    text-align: center;
+    color: #fff;
+    font-family: roboto, Sans-serif;
+    font-size: 15px;
+    font-weight: 400
+}
+
+.elementor-9030 .elementor-element.elementor-element-39e7541 > .elementor-widget-container {
+    margin: -15px 0 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-a393bf0 {
+    --divider-border-style: solid;
+    --divider-color: #000;
+    --divider-border-width: 1px
+}
+
+.elementor-9030 .elementor-element.elementor-element-a393bf0 .elementor-divider-separator {
+    width: 100%
+}
+
+.elementor-9030 .elementor-element.elementor-element-a393bf0 .elementor-divider {
+    padding-top: 0;
+    padding-bottom: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-a393bf0 > .elementor-widget-container {
+    margin: 10px 0 5px
+}
+
+.elementor-9030 .elementor-element.elementor-element-0f4162e {
+    margin-top: -15px;
+    margin-bottom: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-f7757e8:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-9030 .elementor-element.elementor-element-f7757e8 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #002320b3
+}
+
+.elementor-9030 .elementor-element.elementor-element-f7757e8 > .elementor-element-populated, .elementor-9030 .elementor-element.elementor-element-f7757e8 > .elementor-element-populated > .elementor-background-overlay, .elementor-9030 .elementor-element.elementor-element-f7757e8 > .elementor-background-slideshow {
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-f7757e8 > .elementor-element-populated {
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    margin: 0;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 15px
+}
+
+.elementor-9030 .elementor-element.elementor-element-f7757e8 > .elementor-element-populated > .elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-9030 .elementor-element.elementor-element-2150586 {
+    text-align: center;
+    color: #fff;
+    font-family: roboto, Sans-serif;
+    font-size: 15px;
+    font-weight: 400
+}
+
+.elementor-9030 .elementor-element.elementor-element-2150586 > .elementor-widget-container {
+    margin: -15px 0 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-e005b3b {
+    --divider-border-style: solid;
+    --divider-color: #000;
+    --divider-border-width: 1px
+}
+
+.elementor-9030 .elementor-element.elementor-element-e005b3b .elementor-divider-separator {
+    width: 100%
+}
+
+.elementor-9030 .elementor-element.elementor-element-e005b3b .elementor-divider {
+    padding-top: 0;
+    padding-bottom: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-e005b3b > .elementor-widget-container {
+    margin: 10px 0 5px
+}
+
+.elementor-9030 .elementor-element.elementor-element-088287d {
+    margin-top: -15px;
+    margin-bottom: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-e0ffd40:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-9030 .elementor-element.elementor-element-e0ffd40 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #002320b3
+}
+
+.elementor-9030 .elementor-element.elementor-element-e0ffd40 > .elementor-element-populated, .elementor-9030 .elementor-element.elementor-element-e0ffd40 > .elementor-element-populated > .elementor-background-overlay, .elementor-9030 .elementor-element.elementor-element-e0ffd40 > .elementor-background-slideshow {
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-9030 .elementor-element.elementor-element-e0ffd40 > .elementor-element-populated {
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    margin: 0;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 15px
+}
+
+.elementor-9030 .elementor-element.elementor-element-e0ffd40 > .elementor-element-populated > .elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-9030 .elementor-element.elementor-element-75f631e {
+    text-align: center;
+    color: #fff;
+    font-family: roboto, Sans-serif;
+    font-size: 15px;
+    font-weight: 400
+}
+
+.elementor-9030 .elementor-element.elementor-element-75f631e > .elementor-widget-container {
+    margin: -15px 0 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-b93b8c6 > .elementor-container {
+    max-width: 600px;
+    min-height: 85vh
+}
+
+.elementor-9030 .elementor-element.elementor-element-b93b8c6 {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 1rem .5rem 7rem
+}
+
+.elementor-9030 .elementor-element.elementor-element-b93b8c6 > .elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-bc-flex-widget .elementor-9030 .elementor-element.elementor-element-6b57623.elementor-column .elementor-widget-wrap {
+    align-items: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-6b57623.elementor-column.elementor-element[data-element_type=column] > .elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-6b57623.elementor-column > .elementor-widget-wrap {
+    justify-content: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-d86fc8a {
+    text-align: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-d86fc8a .elementor-heading-title {
+    color: #fff;
+    font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-primary-font-weight)
+}
+
+.elementor-9030 .elementor-element.elementor-element-343d2d8 .elementor-button {
+    font-family: roboto, Sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    background-color: transparent;
+    background-image: linear-gradient(145deg, #1E8807 0%, #166205 100%);
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: #56ff54;
+    border-radius: 5px 5px 5px 5px
+}
+
+.elementor-9030 .elementor-element.elementor-element-343d2d8 > .elementor-widget-container {
+    margin: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-1c48a490:not(.elementor-motion-effects-element-type-background), .elementor-9030 .elementor-element.elementor-element-1c48a490 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #0a2f31a8
+}
+
+.elementor-9030 .elementor-element.elementor-element-1c48a490 {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    margin-top: 0;
+    margin-bottom: -2rem;
+    z-index: 100
+}
+
+.elementor-9030 .elementor-element.elementor-element-1c48a490 > .elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-9030 .elementor-element.elementor-element-5337886a > .elementor-element-populated {
+    padding: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-25d12109.elementor-view-stacked .elementor-icon {
+    background-color: #d3d3d3
+}
+
+.elementor-9030 .elementor-element.elementor-element-25d12109.elementor-view-framed .elementor-icon, .elementor-9030 .elementor-element.elementor-element-25d12109.elementor-view-default .elementor-icon {
+    fill: #d3d3d3;
+    color: #d3d3d3;
+    border-color: #d3d3d3
+}
+
+.elementor-9030 .elementor-element.elementor-element-25d12109 {
+    --icon-box-icon-margin: 0px;
+    width: var(--container-widget-width, 20%);
+    max-width: 20%;
+    --container-widget-width: 20%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-25d12109 .elementor-icon {
+    font-size: 30px
+}
+
+.elementor-9030 .elementor-element.elementor-element-25d12109 .elementor-icon-box-wrapper {
+    text-align: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-25d12109 .elementor-icon-box-title {
+    color: #d3d3d3
+}
+
+.elementor-9030 .elementor-element.elementor-element-25d12109 .elementor-icon-box-title, .elementor-9030 .elementor-element.elementor-element-25d12109 .elementor-icon-box-title a {
+    font-family: roboto, Sans-serif;
+    font-size: 12px;
+    font-weight: 400
+}
+
+.elementor-9030 .elementor-element.elementor-element-25d12109 .elementor-icon-box-description {
+    color: #d3d3d3
+}
+
+.elementor-9030 .elementor-element.elementor-element-2eac9a22.elementor-view-stacked .elementor-icon {
+    background-color: #d3d3d3
+}
+
+.elementor-9030 .elementor-element.elementor-element-2eac9a22.elementor-view-framed .elementor-icon, .elementor-9030 .elementor-element.elementor-element-2eac9a22.elementor-view-default .elementor-icon {
+    fill: #d3d3d3;
+    color: #d3d3d3;
+    border-color: #d3d3d3
+}
+
+.elementor-9030 .elementor-element.elementor-element-2eac9a22 {
+    --icon-box-icon-margin: 0px;
+    width: var(--container-widget-width, 20%);
+    max-width: 20%;
+    --container-widget-width: 20%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-2eac9a22 .elementor-icon {
+    font-size: 30px
+}
+
+.elementor-9030 .elementor-element.elementor-element-2eac9a22 .elementor-icon-box-wrapper {
+    text-align: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-2eac9a22 .elementor-icon-box-title {
+    color: #d3d3d3
+}
+
+.elementor-9030 .elementor-element.elementor-element-2eac9a22 .elementor-icon-box-title, .elementor-9030 .elementor-element.elementor-element-2eac9a22 .elementor-icon-box-title a {
+    font-family: roboto, Sans-serif;
+    font-size: 12px;
+    font-weight: 400
+}
+
+.elementor-9030 .elementor-element.elementor-element-2eac9a22 .elementor-icon-box-description {
+    color: #d3d3d3
+}
+
+.elementor-9030 .elementor-element.elementor-element-0e4b901.elementor-view-stacked .elementor-icon {
+    background-color: #d3d3d3
+}
+
+.elementor-9030 .elementor-element.elementor-element-0e4b901.elementor-view-framed .elementor-icon, .elementor-9030 .elementor-element.elementor-element-0e4b901.elementor-view-default .elementor-icon {
+    fill: #d3d3d3;
+    color: #d3d3d3;
+    border-color: #d3d3d3
+}
+
+.elementor-9030 .elementor-element.elementor-element-0e4b901 {
+    --icon-box-icon-margin: 0px;
+    width: var(--container-widget-width, 20%);
+    max-width: 20%;
+    --container-widget-width: 20%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-0e4b901 .elementor-icon {
+    font-size: 30px
+}
+
+.elementor-9030 .elementor-element.elementor-element-0e4b901 .elementor-icon-box-wrapper {
+    text-align: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-0e4b901 .elementor-icon-box-title {
+    color: #d3d3d3
+}
+
+.elementor-9030 .elementor-element.elementor-element-0e4b901 .elementor-icon-box-title, .elementor-9030 .elementor-element.elementor-element-0e4b901 .elementor-icon-box-title a {
+    font-family: roboto, Sans-serif;
+    font-size: 12px;
+    font-weight: 400
+}
+
+.elementor-9030 .elementor-element.elementor-element-0e4b901 .elementor-icon-box-description {
+    color: #d3d3d3
+}
+
+.elementor-9030 .elementor-element.elementor-element-7b9e60a7.elementor-view-stacked .elementor-icon {
+    background-color: #d3d3d3
+}
+
+.elementor-9030 .elementor-element.elementor-element-7b9e60a7.elementor-view-framed .elementor-icon, .elementor-9030 .elementor-element.elementor-element-7b9e60a7.elementor-view-default .elementor-icon {
+    fill: #d3d3d3;
+    color: #d3d3d3;
+    border-color: #d3d3d3
+}
+
+.elementor-9030 .elementor-element.elementor-element-7b9e60a7 {
+    --icon-box-icon-margin: 0px;
+    width: var(--container-widget-width, 20%);
+    max-width: 20%;
+    --container-widget-width: 20%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-7b9e60a7 .elementor-icon {
+    font-size: 30px
+}
+
+.elementor-9030 .elementor-element.elementor-element-7b9e60a7 .elementor-icon-box-wrapper {
+    text-align: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-7b9e60a7 .elementor-icon-box-title {
+    color: #d3d3d3
+}
+
+.elementor-9030 .elementor-element.elementor-element-7b9e60a7 .elementor-icon-box-title, .elementor-9030 .elementor-element.elementor-element-7b9e60a7 .elementor-icon-box-title a {
+    font-family: roboto, Sans-serif;
+    font-size: 12px;
+    font-weight: 400
+}
+
+.elementor-9030 .elementor-element.elementor-element-7b9e60a7 .elementor-icon-box-description {
+    color: #d3d3d3
+}
+
+.elementor-9030 .elementor-element.elementor-element-d4a9339.elementor-view-stacked .elementor-icon {
+    background-color: #d3d3d3
+}
+
+.elementor-9030 .elementor-element.elementor-element-d4a9339.elementor-view-framed .elementor-icon, .elementor-9030 .elementor-element.elementor-element-d4a9339.elementor-view-default .elementor-icon {
+    fill: #d3d3d3;
+    color: #d3d3d3;
+    border-color: #d3d3d3
+}
+
+.elementor-9030 .elementor-element.elementor-element-d4a9339 {
+    --icon-box-icon-margin: 0px;
+    width: var(--container-widget-width, 20%);
+    max-width: 20%;
+    --container-widget-width: 20%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-d4a9339 .elementor-icon {
+    font-size: 30px
+}
+
+.elementor-9030 .elementor-element.elementor-element-d4a9339 .elementor-icon-box-wrapper {
+    text-align: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-d4a9339 .elementor-icon-box-title {
+    color: #d3d3d3
+}
+
+.elementor-9030 .elementor-element.elementor-element-d4a9339 .elementor-icon-box-title, .elementor-9030 .elementor-element.elementor-element-d4a9339 .elementor-icon-box-title a {
+    font-family: roboto, Sans-serif;
+    font-size: 12px;
+    font-weight: 400
+}
+
+.elementor-9030 .elementor-element.elementor-element-d4a9339 .elementor-icon-box-description {
+    color: #d3d3d3
+}
+
+.elementor-9030 .elementor-element.elementor-element-a9707ee {
+    --divider-border-style: solid;
+    --divider-color: #169B90;
+    --divider-border-width: 60px;
+    width: var(--container-widget-width, 60px);
+    max-width: 60px;
+    --container-widget-width: 60px;
+    --container-widget-flex-grow: 0;
+    top: -35px;
+    z-index: -1
+}
+
+.elementor-9030 .elementor-element.elementor-element-a9707ee .elementor-divider-separator {
+    width: 60px
+}
+
+.elementor-9030 .elementor-element.elementor-element-a9707ee .elementor-divider {
+    padding-top: 0;
+    padding-bottom: 0
+}
+
+body:not(.rtl) .elementor-9030 .elementor-element.elementor-element-a9707ee {
+    left: 7%
+}
+
+body.rtl .elementor-9030 .elementor-element.elementor-element-a9707ee {
+    right: 7%
+}
+
+.elementor-9030 .elementor-element.elementor-element-a9707ee > .elementor-widget-container {
+    border-radius: 50px 50px 50px 50px
+}
+
+body.elementor-page-9030:not(.elementor-motion-effects-element-type-background), body.elementor-page-9030 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #000;
+    background-image: url('../../img/HB.png');
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+@media (max-width: 767px) {
+    .elementor-9030 .elementor-element.elementor-element-ae0671e > .elementor-container {
+        min-height: 5vh
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-ae0671e {
+        padding: 7px 10px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-4ebbeaa {
+        width: 20%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-186c4d7 {
+        text-align: center
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-186c4d7 img {
+        width: 100%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-6c83627 {
+        width: 60%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-c8032b3 .elementor-heading-title {
+        font-size: 15px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-23561ca {
+        width: 10%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-db10319 {
+        --lottie-container-width: 100%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-db10319 > .elementor-widget-container {
+        margin: 0 -10px;
+        padding: 0
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-317e74f {
+        width: 10%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-d229a7a {
+        align-self: center
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-67e63b4 {
+        padding: 30px 15px 0
+    }
+
+    .elementor-bc-flex-widget .elementor-9030 .elementor-element.elementor-element-7bdeb74.elementor-column .elementor-widget-wrap {
+        align-items: center
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-7bdeb74.elementor-column.elementor-element[data-element_type=column] > .elementor-widget-wrap.elementor-element-populated {
+        align-content: center;
+        align-items: center
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-2799c3e {
+        text-align: left;
+        font-size: 18px;
+        line-height: 1.2em;
+        z-index: 100
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-2799c3e > .elementor-widget-container {
+        margin: 0 0 0 10px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-4c7a00b {
+        text-align: left;
+        font-size: 12px;
+        line-height: 1.3em;
+        z-index: 100
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-4c7a00b > .elementor-widget-container {
+        margin: -10px 10px 0
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-ea35170 {
+        text-align: left;
+        font-size: 12px;
+        line-height: 1.3em;
+        z-index: 100
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-ea35170 > .elementor-widget-container {
+        margin: -10px 10px 0
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-434bf5e .elementor-button {
+        font-size: 22px;
+        line-height: 1em;
+        padding: 10px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-434bf5e > .elementor-widget-container {
+        margin: 5px 0 0;
+        padding: 0
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-0042f0f {
+        padding: 0 20px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-06dac1b {
+        font-size: 21px;
+        line-height: 1.2em;
+        z-index: 100
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-06dac1b > .elementor-widget-container {
+        margin: 0
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-7189ae1 {
+        text-align: left;
+        font-size: 14px;
+        line-height: 1.2em;
+        z-index: 100
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-7189ae1 > .elementor-widget-container {
+        margin: 0
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-348d3df .elementor-icon-list-item > .elementor-icon-list-text, .elementor-9030 .elementor-element.elementor-element-348d3df .elementor-icon-list-item > a {
+        font-size: 14px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-348d3df > .elementor-widget-container {
+        margin: -15px 0 0
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-c200c84 {
+        text-align: left;
+        font-size: 14px;
+        line-height: 1.2em;
+        z-index: 100
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-c200c84 > .elementor-widget-container {
+        margin: 0
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-c2cc650 .elementor-icon-list-item > .elementor-icon-list-text, .elementor-9030 .elementor-element.elementor-element-c2cc650 .elementor-icon-list-item > a {
+        font-size: 14px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-c2cc650 > .elementor-widget-container {
+        margin: -15px 0 0
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-0a23362 {
+        text-align: center;
+        font-size: 25px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-788f9dd > .elementor-element-populated, .elementor-9030 .elementor-element.elementor-element-788f9dd > .elementor-element-populated > .elementor-background-overlay, .elementor-9030 .elementor-element.elementor-element-788f9dd > .elementor-background-slideshow {
+        border-radius: 6px 6px 6px 6px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-e548ef7 {
+        text-align: left;
+        font-size: 15px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-0d3b46c .elementor-button {
+        font-size: 14px;
+        padding: 15px 10px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-e308253 .elementor-divider {
+        padding-top: 0;
+        padding-bottom: 0
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-e308253 > .elementor-widget-container {
+        margin: 0
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-7f59d83 > .elementor-element-populated, .elementor-9030 .elementor-element.elementor-element-7f59d83 > .elementor-element-populated > .elementor-background-overlay, .elementor-9030 .elementor-element.elementor-element-7f59d83 > .elementor-background-slideshow {
+        border-radius: 6px 6px 6px 6px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-fd55d03 img {
+        border-radius: 6px 6px 6px 6px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-9f487ae {
+        text-align: left;
+        font-size: 15px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-fe79f18 .elementor-button {
+        font-size: 16px;
+        padding: 10px 10px 5px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-faceea5 .elementor-divider {
+        padding-top: 0;
+        padding-bottom: 0
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-faceea5 > .elementor-widget-container {
+        margin: 0
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-ab93fc7 > .elementor-element-populated, .elementor-9030 .elementor-element.elementor-element-ab93fc7 > .elementor-element-populated > .elementor-background-overlay, .elementor-9030 .elementor-element.elementor-element-ab93fc7 > .elementor-background-slideshow {
+        border-radius: 6px 6px 6px 6px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-13eeaa0 {
+        text-align: left;
+        font-size: 15px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-f095462 .elementor-button {
+        font-size: 14px;
+        line-height: 1em;
+        padding: 10px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-f095462 > .elementor-widget-container {
+        margin: -10px 0 0;
+        padding: 0
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-6c1bd44 .elementor-divider {
+        padding-top: 0;
+        padding-bottom: 0
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-6c1bd44 > .elementor-widget-container {
+        margin: 0
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-9c913bc {
+        font-size: 25px;
+        line-height: 1.2em;
+        z-index: 100
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-9c913bc > .elementor-widget-container {
+        margin: 0 0 -30px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-f22b6e6 img {
+        width: 100%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-95c7fd9 img {
+        width: 100%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-ff77cda img {
+        width: 100%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-52314df img {
+        width: 100%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-a557e51 img {
+        width: 100%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-545ed7c img {
+        width: 100%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-2d8a0f3 img {
+        width: 100%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-2f57a30 img {
+        width: 100%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-6c89e39 img {
+        width: 100%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-e84d532 img {
+        width: 100%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-a66fdd6 img {
+        width: 100%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-a15e805 img {
+        width: 100%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-1a3d7d2 img {
+        width: 100%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-16414ac img {
+        width: 100%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-080e29f .elementor-button {
+        font-size: 18px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-0e3b86a:not(.elementor-motion-effects-element-type-background), .elementor-9030 .elementor-element.elementor-element-0e3b86a > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+        background-image: url('../../img/hackerflix-mobile2.jpg');
+        background-position: top center;
+        background-repeat: no-repeat;
+        background-size: contain
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-ef9cb0d {
+        font-size: 25px;
+        line-height: 1.2em;
+        z-index: 100
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-ef9cb0d > .elementor-widget-container {
+        margin: 0
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-bac84ec > .elementor-element-populated, .elementor-9030 .elementor-element.elementor-element-bac84ec > .elementor-element-populated > .elementor-background-overlay, .elementor-9030 .elementor-element.elementor-element-bac84ec > .elementor-background-slideshow {
+        border-radius: 6px 6px 6px 6px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-072e409 {
+        text-align: left;
+        font-size: 16px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-21c1ed9 .elementor-button {
+        font-size: 18px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-21c1ed9 > .elementor-widget-container {
+        margin: 0
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-cbe456b .elementor-divider {
+        padding-top: 0;
+        padding-bottom: 0
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-cbe456b > .elementor-widget-container {
+        margin: 10px 0 5px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-d254df5 > .elementor-element-populated, .elementor-9030 .elementor-element.elementor-element-d254df5 > .elementor-element-populated > .elementor-background-overlay, .elementor-9030 .elementor-element.elementor-element-d254df5 > .elementor-background-slideshow {
+        border-radius: 6px 6px 6px 6px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-0cf8390 {
+        text-align: left;
+        font-size: 16px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-0d13d0d .elementor-divider {
+        padding-top: 0;
+        padding-bottom: 0
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-0d13d0d > .elementor-widget-container {
+        margin: 10px 0 5px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-3e2e183 > .elementor-element-populated, .elementor-9030 .elementor-element.elementor-element-3e2e183 > .elementor-element-populated > .elementor-background-overlay, .elementor-9030 .elementor-element.elementor-element-3e2e183 > .elementor-background-slideshow {
+        border-radius: 6px 6px 6px 6px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-90ae22a > .elementor-widget-container {
+        margin: 0
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-39e7541 {
+        text-align: left;
+        font-size: 16px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-a393bf0 .elementor-divider {
+        padding-top: 0;
+        padding-bottom: 0
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-a393bf0 > .elementor-widget-container {
+        margin: 10px 0 5px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-f7757e8 > .elementor-element-populated, .elementor-9030 .elementor-element.elementor-element-f7757e8 > .elementor-element-populated > .elementor-background-overlay, .elementor-9030 .elementor-element.elementor-element-f7757e8 > .elementor-background-slideshow {
+        border-radius: 6px 6px 6px 6px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-2150586 {
+        text-align: left;
+        font-size: 16px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-e005b3b .elementor-divider {
+        padding-top: 0;
+        padding-bottom: 0
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-e005b3b > .elementor-widget-container {
+        margin: 10px 0 5px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-e0ffd40 > .elementor-element-populated, .elementor-9030 .elementor-element.elementor-element-e0ffd40 > .elementor-element-populated > .elementor-background-overlay, .elementor-9030 .elementor-element.elementor-element-e0ffd40 > .elementor-background-slideshow {
+        border-radius: 6px 6px 6px 6px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-75f631e {
+        text-align: left;
+        font-size: 16px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-343d2d8 .elementor-button {
+        font-size: 18px
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-343d2d8 > .elementor-widget-container {
+        margin: 0
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-1c48a490 {
+        padding: 0 0 10px
+    }
+}
+
+@media (min-width: 768px) {
+    .elementor-9030 .elementor-element.elementor-element-4ebbeaa {
+        width: 10%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-6c83627 {
+        width: 80%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-23561ca {
+        width: 5%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-317e74f {
+        width: 5%
+    }
+}
+
+@media (max-width: 1024px) and (min-width: 768px) {
+    .elementor-9030 .elementor-element.elementor-element-4ebbeaa {
+        width: 20%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-6c83627 {
+        width: 65%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-23561ca {
+        width: 10%
+    }
+
+    .elementor-9030 .elementor-element.elementor-element-317e74f {
+        width: 5%
+    }
+}
+
+.glitch {
+    position: relative;
+    animation: glitch-skew 1s infinite linear alternate-reverse
+}
+
+.glitch::before {
+    content: attr(data-text);
+    position: absolute;
+    left: 2px;
+    text-shadow: -2px 0 #ff00c1;
+    clip: rect(44px, 450px, 56px, 0);
+    animation: glitch-anim 5s infinite linear alternate-reverse
+}
+
+.glitch::after {
+    content: attr(data-text);
+    position: absolute;
+    left: -2px;
+    text-shadow: -2px 0 #00fff9, 2px 2px #ff00c1;
+    animation: glitch-anim2 1s infinite linear alternate-reverse
+}
+
+@keyframes glitch-anim {
+    0% {
+        clip: rect(75px, 9999px, 54px, 0);
+        transform: skew(0.28deg)
+    }
+    5% {
+        clip: rect(24px, 9999px, 60px, 0);
+        transform: skew(0.48deg)
+    }
+    10% {
+        clip: rect(8px, 9999px, 60px, 0);
+        transform: skew(0.61deg)
+    }
+    15% {
+        clip: rect(25px, 9999px, 41px, 0);
+        transform: skew(0.47deg)
+    }
+    20% {
+        clip: rect(14px, 9999px, 53px, 0);
+        transform: skew(0.07deg)
+    }
+    25% {
+        clip: rect(52px, 9999px, 32px, 0);
+        transform: skew(0.18deg)
+    }
+    30% {
+        clip: rect(88px, 9999px, 23px, 0);
+        transform: skew(0.42deg)
+    }
+    35% {
+        clip: rect(42px, 9999px, 43px, 0);
+        transform: skew(0.6deg)
+    }
+    40% {
+        clip: rect(37px, 9999px, 17px, 0);
+        transform: skew(0.6deg)
+    }
+    45% {
+        clip: rect(19px, 9999px, 96px, 0);
+        transform: skew(0.14deg)
+    }
+    50% {
+        clip: rect(97px, 9999px, 36px, 0);
+        transform: skew(0.8deg)
+    }
+    55% {
+        clip: rect(76px, 9999px, 24px, 0);
+        transform: skew(0.25deg)
+    }
+    60% {
+        clip: rect(1px, 9999px, 40px, 0);
+        transform: skew(0.92deg)
+    }
+    65% {
+        clip: rect(28px, 9999px, 84px, 0);
+        transform: skew(0.18deg)
+    }
+    70% {
+        clip: rect(59px, 9999px, 87px, 0);
+        transform: skew(0.31deg)
+    }
+    75% {
+        clip: rect(3px, 9999px, 71px, 0);
+        transform: skew(0.38deg)
+    }
+    80% {
+        clip: rect(9px, 9999px, 83px, 0);
+        transform: skew(0.37deg)
+    }
+    85% {
+        clip: rect(44px, 9999px, 23px, 0);
+        transform: skew(0.35deg)
+    }
+    90% {
+        clip: rect(97px, 9999px, 6px, 0);
+        transform: skew(0.13deg)
+    }
+    95% {
+        clip: rect(69px, 9999px, 97px, 0);
+        transform: skew(0.59deg)
+    }
+    100% {
+        clip: rect(69px, 9999px, 35px, 0);
+        transform: skew(0.42deg)
+    }
+}
+
+@keyframes glitch-anim2 {
+    0% {
+        clip: rect(26px, 9999px, 94px, 0);
+        transform: skew(0.29deg)
+    }
+    5% {
+        clip: rect(100px, 9999px, 49px, 0);
+        transform: skew(0.18deg)
+    }
+    10% {
+        clip: rect(8px, 9999px, 25px, 0);
+        transform: skew(0.68deg)
+    }
+    15% {
+        clip: rect(41px, 9999px, 71px, 0);
+        transform: skew(0.03deg)
+    }
+    20% {
+        clip: rect(42px, 9999px, 35px, 0);
+        transform: skew(0.81deg)
+    }
+    25% {
+        clip: rect(79px, 9999px, 26px, 0);
+        transform: skew(0.8deg)
+    }
+    30% {
+        clip: rect(74px, 9999px, 76px, 0);
+        transform: skew(0.25deg)
+    }
+    35% {
+        clip: rect(27px, 9999px, 64px, 0);
+        transform: skew(0.49deg)
+    }
+    40% {
+        clip: rect(3px, 9999px, 70px, 0);
+        transform: skew(0.59deg)
+    }
+    45% {
+        clip: rect(79px, 9999px, 94px, 0);
+        transform: skew(0.65deg)
+    }
+    50% {
+        clip: rect(24px, 9999px, 41px, 0);
+        transform: skew(0.87deg)
+    }
+    55% {
+        clip: rect(1px, 9999px, 94px, 0);
+        transform: skew(0.11deg)
+    }
+    60% {
+        clip: rect(2px, 9999px, 29px, 0);
+        transform: skew(0.7deg)
+    }
+    65% {
+        clip: rect(42px, 9999px, 61px, 0);
+        transform: skew(0.24deg)
+    }
+    70% {
+        clip: rect(55px, 9999px, 97px, 0);
+        transform: skew(0.6deg)
+    }
+    75% {
+        clip: rect(19px, 9999px, 98px, 0);
+        transform: skew(0.63deg)
+    }
+    80% {
+        clip: rect(39px, 9999px, 97px, 0);
+        transform: skew(0.35deg)
+    }
+    85% {
+        clip: rect(55px, 9999px, 56px, 0);
+        transform: skew(0.35deg)
+    }
+    90% {
+        clip: rect(86px, 9999px, 10px, 0);
+        transform: skew(0.14deg)
+    }
+    95% {
+        clip: rect(60px, 9999px, 82px, 0);
+        transform: skew(0.51deg)
+    }
+    100% {
+        clip: rect(81px, 9999px, 78px, 0);
+        transform: skew(0.32deg)
+    }
+}
+
+@keyframes glitch-skew {
+    0% {
+        transform: skew(2deg)
+    }
+    10% {
+        transform: skew(-4deg)
+    }
+    20% {
+        transform: skew(-2deg)
+    }
+    30% {
+        transform: skew(3deg)
+    }
+    40% {
+        transform: skew(4deg)
+    }
+    50% {
+        transform: skew(3deg)
+    }
+    60% {
+        transform: skew(0deg)
+    }
+    70% {
+        transform: skew(0deg)
+    }
+    80% {
+        transform: skew(3deg)
+    }
+    90% {
+        transform: skew(3deg)
+    }
+    100% {
+        transform: skew(-2deg)
+    }
+}
+
+.glitch {
+    position: relative;
+    animation: glitch-skew 1s infinite linear alternate-reverse
+}
+
+.glitch::before {
+    content: attr(data-text);
+    position: absolute;
+    left: 2px;
+    text-shadow: -2px 0 #ff00c1;
+    clip: rect(44px, 450px, 56px, 0);
+    animation: glitch-anim 5s infinite linear alternate-reverse
+}
+
+.glitch::after {
+    content: attr(data-text);
+    position: absolute;
+    left: -2px;
+    text-shadow: -2px 0 #00fff9, 2px 2px #ff00c1;
+    animation: glitch-anim2 1s infinite linear alternate-reverse
+}
+
+@keyframes glitch-anim {
+    0% {
+        clip: rect(75px, 9999px, 54px, 0);
+        transform: skew(0.28deg)
+    }
+    5% {
+        clip: rect(24px, 9999px, 60px, 0);
+        transform: skew(0.48deg)
+    }
+    10% {
+        clip: rect(8px, 9999px, 60px, 0);
+        transform: skew(0.61deg)
+    }
+    15% {
+        clip: rect(25px, 9999px, 41px, 0);
+        transform: skew(0.47deg)
+    }
+    20% {
+        clip: rect(14px, 9999px, 53px, 0);
+        transform: skew(0.07deg)
+    }
+    25% {
+        clip: rect(52px, 9999px, 32px, 0);
+        transform: skew(0.18deg)
+    }
+    30% {
+        clip: rect(88px, 9999px, 23px, 0);
+        transform: skew(0.42deg)
+    }
+    35% {
+        clip: rect(42px, 9999px, 43px, 0);
+        transform: skew(0.6deg)
+    }
+    40% {
+        clip: rect(37px, 9999px, 17px, 0);
+        transform: skew(0.6deg)
+    }
+    45% {
+        clip: rect(19px, 9999px, 96px, 0);
+        transform: skew(0.14deg)
+    }
+    50% {
+        clip: rect(97px, 9999px, 36px, 0);
+        transform: skew(0.8deg)
+    }
+    55% {
+        clip: rect(76px, 9999px, 24px, 0);
+        transform: skew(0.25deg)
+    }
+    60% {
+        clip: rect(1px, 9999px, 40px, 0);
+        transform: skew(0.92deg)
+    }
+    65% {
+        clip: rect(28px, 9999px, 84px, 0);
+        transform: skew(0.18deg)
+    }
+    70% {
+        clip: rect(59px, 9999px, 87px, 0);
+        transform: skew(0.31deg)
+    }
+    75% {
+        clip: rect(3px, 9999px, 71px, 0);
+        transform: skew(0.38deg)
+    }
+    80% {
+        clip: rect(9px, 9999px, 83px, 0);
+        transform: skew(0.37deg)
+    }
+    85% {
+        clip: rect(44px, 9999px, 23px, 0);
+        transform: skew(0.35deg)
+    }
+    90% {
+        clip: rect(97px, 9999px, 6px, 0);
+        transform: skew(0.13deg)
+    }
+    95% {
+        clip: rect(69px, 9999px, 97px, 0);
+        transform: skew(0.59deg)
+    }
+    100% {
+        clip: rect(69px, 9999px, 35px, 0);
+        transform: skew(0.42deg)
+    }
+}
+
+@keyframes glitch-anim2 {
+    0% {
+        clip: rect(26px, 9999px, 94px, 0);
+        transform: skew(0.29deg)
+    }
+    5% {
+        clip: rect(100px, 9999px, 49px, 0);
+        transform: skew(0.18deg)
+    }
+    10% {
+        clip: rect(8px, 9999px, 25px, 0);
+        transform: skew(0.68deg)
+    }
+    15% {
+        clip: rect(41px, 9999px, 71px, 0);
+        transform: skew(0.03deg)
+    }
+    20% {
+        clip: rect(42px, 9999px, 35px, 0);
+        transform: skew(0.81deg)
+    }
+    25% {
+        clip: rect(79px, 9999px, 26px, 0);
+        transform: skew(0.8deg)
+    }
+    30% {
+        clip: rect(74px, 9999px, 76px, 0);
+        transform: skew(0.25deg)
+    }
+    35% {
+        clip: rect(27px, 9999px, 64px, 0);
+        transform: skew(0.49deg)
+    }
+    40% {
+        clip: rect(3px, 9999px, 70px, 0);
+        transform: skew(0.59deg)
+    }
+    45% {
+        clip: rect(79px, 9999px, 94px, 0);
+        transform: skew(0.65deg)
+    }
+    50% {
+        clip: rect(24px, 9999px, 41px, 0);
+        transform: skew(0.87deg)
+    }
+    55% {
+        clip: rect(1px, 9999px, 94px, 0);
+        transform: skew(0.11deg)
+    }
+    60% {
+        clip: rect(2px, 9999px, 29px, 0);
+        transform: skew(0.7deg)
+    }
+    65% {
+        clip: rect(42px, 9999px, 61px, 0);
+        transform: skew(0.24deg)
+    }
+    70% {
+        clip: rect(55px, 9999px, 97px, 0);
+        transform: skew(0.6deg)
+    }
+    75% {
+        clip: rect(19px, 9999px, 98px, 0);
+        transform: skew(0.63deg)
+    }
+    80% {
+        clip: rect(39px, 9999px, 97px, 0);
+        transform: skew(0.35deg)
+    }
+    85% {
+        clip: rect(55px, 9999px, 56px, 0);
+        transform: skew(0.35deg)
+    }
+    90% {
+        clip: rect(86px, 9999px, 10px, 0);
+        transform: skew(0.14deg)
+    }
+    95% {
+        clip: rect(60px, 9999px, 82px, 0);
+        transform: skew(0.51deg)
+    }
+    100% {
+        clip: rect(81px, 9999px, 78px, 0);
+        transform: skew(0.32deg)
+    }
+}
+
+@keyframes glitch-skew {
+    0% {
+        transform: skew(2deg)
+    }
+    10% {
+        transform: skew(-4deg)
+    }
+    20% {
+        transform: skew(-2deg)
+    }
+    30% {
+        transform: skew(3deg)
+    }
+    40% {
+        transform: skew(4deg)
+    }
+    50% {
+        transform: skew(3deg)
+    }
+    60% {
+        transform: skew(0deg)
+    }
+    70% {
+        transform: skew(0deg)
+    }
+    80% {
+        transform: skew(3deg)
+    }
+    90% {
+        transform: skew(3deg)
+    }
+    100% {
+        transform: skew(-2deg)
+    }
+}
+
+.glitch {
+    position: relative;
+    animation: glitch-skew 1s infinite linear alternate-reverse
+}
+
+.glitch::before {
+    content: attr(data-text);
+    position: absolute;
+    left: 2px;
+    text-shadow: -2px 0 #ff00c1;
+    clip: rect(44px, 450px, 56px, 0);
+    animation: glitch-anim 5s infinite linear alternate-reverse
+}
+
+.glitch::after {
+    content: attr(data-text);
+    position: absolute;
+    left: -2px;
+    text-shadow: -2px 0 #00fff9, 2px 2px #ff00c1;
+    animation: glitch-anim2 1s infinite linear alternate-reverse
+}
+
+@keyframes glitch-anim {
+    0% {
+        clip: rect(75px, 9999px, 54px, 0);
+        transform: skew(0.28deg)
+    }
+    5% {
+        clip: rect(24px, 9999px, 60px, 0);
+        transform: skew(0.48deg)
+    }
+    10% {
+        clip: rect(8px, 9999px, 60px, 0);
+        transform: skew(0.61deg)
+    }
+    15% {
+        clip: rect(25px, 9999px, 41px, 0);
+        transform: skew(0.47deg)
+    }
+    20% {
+        clip: rect(14px, 9999px, 53px, 0);
+        transform: skew(0.07deg)
+    }
+    25% {
+        clip: rect(52px, 9999px, 32px, 0);
+        transform: skew(0.18deg)
+    }
+    30% {
+        clip: rect(88px, 9999px, 23px, 0);
+        transform: skew(0.42deg)
+    }
+    35% {
+        clip: rect(42px, 9999px, 43px, 0);
+        transform: skew(0.6deg)
+    }
+    40% {
+        clip: rect(37px, 9999px, 17px, 0);
+        transform: skew(0.6deg)
+    }
+    45% {
+        clip: rect(19px, 9999px, 96px, 0);
+        transform: skew(0.14deg)
+    }
+    50% {
+        clip: rect(97px, 9999px, 36px, 0);
+        transform: skew(0.8deg)
+    }
+    55% {
+        clip: rect(76px, 9999px, 24px, 0);
+        transform: skew(0.25deg)
+    }
+    60% {
+        clip: rect(1px, 9999px, 40px, 0);
+        transform: skew(0.92deg)
+    }
+    65% {
+        clip: rect(28px, 9999px, 84px, 0);
+        transform: skew(0.18deg)
+    }
+    70% {
+        clip: rect(59px, 9999px, 87px, 0);
+        transform: skew(0.31deg)
+    }
+    75% {
+        clip: rect(3px, 9999px, 71px, 0);
+        transform: skew(0.38deg)
+    }
+    80% {
+        clip: rect(9px, 9999px, 83px, 0);
+        transform: skew(0.37deg)
+    }
+    85% {
+        clip: rect(44px, 9999px, 23px, 0);
+        transform: skew(0.35deg)
+    }
+    90% {
+        clip: rect(97px, 9999px, 6px, 0);
+        transform: skew(0.13deg)
+    }
+    95% {
+        clip: rect(69px, 9999px, 97px, 0);
+        transform: skew(0.59deg)
+    }
+    100% {
+        clip: rect(69px, 9999px, 35px, 0);
+        transform: skew(0.42deg)
+    }
+}
+
+@keyframes glitch-anim2 {
+    0% {
+        clip: rect(26px, 9999px, 94px, 0);
+        transform: skew(0.29deg)
+    }
+    5% {
+        clip: rect(100px, 9999px, 49px, 0);
+        transform: skew(0.18deg)
+    }
+    10% {
+        clip: rect(8px, 9999px, 25px, 0);
+        transform: skew(0.68deg)
+    }
+    15% {
+        clip: rect(41px, 9999px, 71px, 0);
+        transform: skew(0.03deg)
+    }
+    20% {
+        clip: rect(42px, 9999px, 35px, 0);
+        transform: skew(0.81deg)
+    }
+    25% {
+        clip: rect(79px, 9999px, 26px, 0);
+        transform: skew(0.8deg)
+    }
+    30% {
+        clip: rect(74px, 9999px, 76px, 0);
+        transform: skew(0.25deg)
+    }
+    35% {
+        clip: rect(27px, 9999px, 64px, 0);
+        transform: skew(0.49deg)
+    }
+    40% {
+        clip: rect(3px, 9999px, 70px, 0);
+        transform: skew(0.59deg)
+    }
+    45% {
+        clip: rect(79px, 9999px, 94px, 0);
+        transform: skew(0.65deg)
+    }
+    50% {
+        clip: rect(24px, 9999px, 41px, 0);
+        transform: skew(0.87deg)
+    }
+    55% {
+        clip: rect(1px, 9999px, 94px, 0);
+        transform: skew(0.11deg)
+    }
+    60% {
+        clip: rect(2px, 9999px, 29px, 0);
+        transform: skew(0.7deg)
+    }
+    65% {
+        clip: rect(42px, 9999px, 61px, 0);
+        transform: skew(0.24deg)
+    }
+    70% {
+        clip: rect(55px, 9999px, 97px, 0);
+        transform: skew(0.6deg)
+    }
+    75% {
+        clip: rect(19px, 9999px, 98px, 0);
+        transform: skew(0.63deg)
+    }
+    80% {
+        clip: rect(39px, 9999px, 97px, 0);
+        transform: skew(0.35deg)
+    }
+    85% {
+        clip: rect(55px, 9999px, 56px, 0);
+        transform: skew(0.35deg)
+    }
+    90% {
+        clip: rect(86px, 9999px, 10px, 0);
+        transform: skew(0.14deg)
+    }
+    95% {
+        clip: rect(60px, 9999px, 82px, 0);
+        transform: skew(0.51deg)
+    }
+    100% {
+        clip: rect(81px, 9999px, 78px, 0);
+        transform: skew(0.32deg)
+    }
+}
+
+@keyframes glitch-skew {
+    0% {
+        transform: skew(2deg)
+    }
+    10% {
+        transform: skew(-4deg)
+    }
+    20% {
+        transform: skew(-2deg)
+    }
+    30% {
+        transform: skew(3deg)
+    }
+    40% {
+        transform: skew(4deg)
+    }
+    50% {
+        transform: skew(3deg)
+    }
+    60% {
+        transform: skew(0deg)
+    }
+    70% {
+        transform: skew(0deg)
+    }
+    80% {
+        transform: skew(3deg)
+    }
+    90% {
+        transform: skew(3deg)
+    }
+    100% {
+        transform: skew(-2deg)
+    }
+}
+
+.elementor-9030 .elementor-element.elementor-element-3c447c1 {
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    -moz-backdrop-filter: blur(5px);
+    -ms-backdrop-filter: blur(5px)
+}
+
+.elementor-9030 .elementor-element.elementor-element-434bf5e .elementor-button-icon {
+    font-size: 30px
+}
+
+.elementor-9030 .elementor-element.elementor-element-434bf5e .elementor-button-content-wrapper {
+    align-items: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-434bf5e .top-small-text {
+    font-size: 13px;
+    color: #051415
+}
+
+.glitch {
+    position: relative;
+    animation: glitch-skew 1s infinite linear alternate-reverse
+}
+
+.glitch::before {
+    content: attr(data-text);
+    position: absolute;
+    left: 2px;
+    text-shadow: -2px 0 #ff00c1;
+    clip: rect(44px, 450px, 56px, 0);
+    animation: glitch-anim 5s infinite linear alternate-reverse
+}
+
+.glitch::after {
+    content: attr(data-text);
+    position: absolute;
+    left: -2px;
+    text-shadow: -2px 0 #00fff9, 2px 2px #ff00c1;
+    animation: glitch-anim2 1s infinite linear alternate-reverse
+}
+
+@keyframes glitch-anim {
+    0% {
+        clip: rect(75px, 9999px, 54px, 0);
+        transform: skew(0.28deg)
+    }
+    5% {
+        clip: rect(24px, 9999px, 60px, 0);
+        transform: skew(0.48deg)
+    }
+    10% {
+        clip: rect(8px, 9999px, 60px, 0);
+        transform: skew(0.61deg)
+    }
+    15% {
+        clip: rect(25px, 9999px, 41px, 0);
+        transform: skew(0.47deg)
+    }
+    20% {
+        clip: rect(14px, 9999px, 53px, 0);
+        transform: skew(0.07deg)
+    }
+    25% {
+        clip: rect(52px, 9999px, 32px, 0);
+        transform: skew(0.18deg)
+    }
+    30% {
+        clip: rect(88px, 9999px, 23px, 0);
+        transform: skew(0.42deg)
+    }
+    35% {
+        clip: rect(42px, 9999px, 43px, 0);
+        transform: skew(0.6deg)
+    }
+    40% {
+        clip: rect(37px, 9999px, 17px, 0);
+        transform: skew(0.6deg)
+    }
+    45% {
+        clip: rect(19px, 9999px, 96px, 0);
+        transform: skew(0.14deg)
+    }
+    50% {
+        clip: rect(97px, 9999px, 36px, 0);
+        transform: skew(0.8deg)
+    }
+    55% {
+        clip: rect(76px, 9999px, 24px, 0);
+        transform: skew(0.25deg)
+    }
+    60% {
+        clip: rect(1px, 9999px, 40px, 0);
+        transform: skew(0.92deg)
+    }
+    65% {
+        clip: rect(28px, 9999px, 84px, 0);
+        transform: skew(0.18deg)
+    }
+    70% {
+        clip: rect(59px, 9999px, 87px, 0);
+        transform: skew(0.31deg)
+    }
+    75% {
+        clip: rect(3px, 9999px, 71px, 0);
+        transform: skew(0.38deg)
+    }
+    80% {
+        clip: rect(9px, 9999px, 83px, 0);
+        transform: skew(0.37deg)
+    }
+    85% {
+        clip: rect(44px, 9999px, 23px, 0);
+        transform: skew(0.35deg)
+    }
+    90% {
+        clip: rect(97px, 9999px, 6px, 0);
+        transform: skew(0.13deg)
+    }
+    95% {
+        clip: rect(69px, 9999px, 97px, 0);
+        transform: skew(0.59deg)
+    }
+    100% {
+        clip: rect(69px, 9999px, 35px, 0);
+        transform: skew(0.42deg)
+    }
+}
+
+@keyframes glitch-anim2 {
+    0% {
+        clip: rect(26px, 9999px, 94px, 0);
+        transform: skew(0.29deg)
+    }
+    5% {
+        clip: rect(100px, 9999px, 49px, 0);
+        transform: skew(0.18deg)
+    }
+    10% {
+        clip: rect(8px, 9999px, 25px, 0);
+        transform: skew(0.68deg)
+    }
+    15% {
+        clip: rect(41px, 9999px, 71px, 0);
+        transform: skew(0.03deg)
+    }
+    20% {
+        clip: rect(42px, 9999px, 35px, 0);
+        transform: skew(0.81deg)
+    }
+    25% {
+        clip: rect(79px, 9999px, 26px, 0);
+        transform: skew(0.8deg)
+    }
+    30% {
+        clip: rect(74px, 9999px, 76px, 0);
+        transform: skew(0.25deg)
+    }
+    35% {
+        clip: rect(27px, 9999px, 64px, 0);
+        transform: skew(0.49deg)
+    }
+    40% {
+        clip: rect(3px, 9999px, 70px, 0);
+        transform: skew(0.59deg)
+    }
+    45% {
+        clip: rect(79px, 9999px, 94px, 0);
+        transform: skew(0.65deg)
+    }
+    50% {
+        clip: rect(24px, 9999px, 41px, 0);
+        transform: skew(0.87deg)
+    }
+    55% {
+        clip: rect(1px, 9999px, 94px, 0);
+        transform: skew(0.11deg)
+    }
+    60% {
+        clip: rect(2px, 9999px, 29px, 0);
+        transform: skew(0.7deg)
+    }
+    65% {
+        clip: rect(42px, 9999px, 61px, 0);
+        transform: skew(0.24deg)
+    }
+    70% {
+        clip: rect(55px, 9999px, 97px, 0);
+        transform: skew(0.6deg)
+    }
+    75% {
+        clip: rect(19px, 9999px, 98px, 0);
+        transform: skew(0.63deg)
+    }
+    80% {
+        clip: rect(39px, 9999px, 97px, 0);
+        transform: skew(0.35deg)
+    }
+    85% {
+        clip: rect(55px, 9999px, 56px, 0);
+        transform: skew(0.35deg)
+    }
+    90% {
+        clip: rect(86px, 9999px, 10px, 0);
+        transform: skew(0.14deg)
+    }
+    95% {
+        clip: rect(60px, 9999px, 82px, 0);
+        transform: skew(0.51deg)
+    }
+    100% {
+        clip: rect(81px, 9999px, 78px, 0);
+        transform: skew(0.32deg)
+    }
+}
+
+@keyframes glitch-skew {
+    0% {
+        transform: skew(2deg)
+    }
+    10% {
+        transform: skew(-4deg)
+    }
+    20% {
+        transform: skew(-2deg)
+    }
+    30% {
+        transform: skew(3deg)
+    }
+    40% {
+        transform: skew(4deg)
+    }
+    50% {
+        transform: skew(3deg)
+    }
+    60% {
+        transform: skew(0deg)
+    }
+    70% {
+        transform: skew(0deg)
+    }
+    80% {
+        transform: skew(3deg)
+    }
+    90% {
+        transform: skew(3deg)
+    }
+    100% {
+        transform: skew(-2deg)
+    }
+}
+
+.glitch {
+    position: relative;
+    animation: glitch-skew 1s infinite linear alternate-reverse
+}
+
+.glitch::before {
+    content: attr(data-text);
+    position: absolute;
+    left: 2px;
+    text-shadow: -2px 0 #ff00c1;
+    clip: rect(44px, 450px, 56px, 0);
+    animation: glitch-anim 5s infinite linear alternate-reverse
+}
+
+.glitch::after {
+    content: attr(data-text);
+    position: absolute;
+    left: -2px;
+    text-shadow: -2px 0 #00fff9, 2px 2px #ff00c1;
+    animation: glitch-anim2 1s infinite linear alternate-reverse
+}
+
+@keyframes glitch-anim {
+    0% {
+        clip: rect(75px, 9999px, 54px, 0);
+        transform: skew(0.28deg)
+    }
+    5% {
+        clip: rect(24px, 9999px, 60px, 0);
+        transform: skew(0.48deg)
+    }
+    10% {
+        clip: rect(8px, 9999px, 60px, 0);
+        transform: skew(0.61deg)
+    }
+    15% {
+        clip: rect(25px, 9999px, 41px, 0);
+        transform: skew(0.47deg)
+    }
+    20% {
+        clip: rect(14px, 9999px, 53px, 0);
+        transform: skew(0.07deg)
+    }
+    25% {
+        clip: rect(52px, 9999px, 32px, 0);
+        transform: skew(0.18deg)
+    }
+    30% {
+        clip: rect(88px, 9999px, 23px, 0);
+        transform: skew(0.42deg)
+    }
+    35% {
+        clip: rect(42px, 9999px, 43px, 0);
+        transform: skew(0.6deg)
+    }
+    40% {
+        clip: rect(37px, 9999px, 17px, 0);
+        transform: skew(0.6deg)
+    }
+    45% {
+        clip: rect(19px, 9999px, 96px, 0);
+        transform: skew(0.14deg)
+    }
+    50% {
+        clip: rect(97px, 9999px, 36px, 0);
+        transform: skew(0.8deg)
+    }
+    55% {
+        clip: rect(76px, 9999px, 24px, 0);
+        transform: skew(0.25deg)
+    }
+    60% {
+        clip: rect(1px, 9999px, 40px, 0);
+        transform: skew(0.92deg)
+    }
+    65% {
+        clip: rect(28px, 9999px, 84px, 0);
+        transform: skew(0.18deg)
+    }
+    70% {
+        clip: rect(59px, 9999px, 87px, 0);
+        transform: skew(0.31deg)
+    }
+    75% {
+        clip: rect(3px, 9999px, 71px, 0);
+        transform: skew(0.38deg)
+    }
+    80% {
+        clip: rect(9px, 9999px, 83px, 0);
+        transform: skew(0.37deg)
+    }
+    85% {
+        clip: rect(44px, 9999px, 23px, 0);
+        transform: skew(0.35deg)
+    }
+    90% {
+        clip: rect(97px, 9999px, 6px, 0);
+        transform: skew(0.13deg)
+    }
+    95% {
+        clip: rect(69px, 9999px, 97px, 0);
+        transform: skew(0.59deg)
+    }
+    100% {
+        clip: rect(69px, 9999px, 35px, 0);
+        transform: skew(0.42deg)
+    }
+}
+
+@keyframes glitch-anim2 {
+    0% {
+        clip: rect(26px, 9999px, 94px, 0);
+        transform: skew(0.29deg)
+    }
+    5% {
+        clip: rect(100px, 9999px, 49px, 0);
+        transform: skew(0.18deg)
+    }
+    10% {
+        clip: rect(8px, 9999px, 25px, 0);
+        transform: skew(0.68deg)
+    }
+    15% {
+        clip: rect(41px, 9999px, 71px, 0);
+        transform: skew(0.03deg)
+    }
+    20% {
+        clip: rect(42px, 9999px, 35px, 0);
+        transform: skew(0.81deg)
+    }
+    25% {
+        clip: rect(79px, 9999px, 26px, 0);
+        transform: skew(0.8deg)
+    }
+    30% {
+        clip: rect(74px, 9999px, 76px, 0);
+        transform: skew(0.25deg)
+    }
+    35% {
+        clip: rect(27px, 9999px, 64px, 0);
+        transform: skew(0.49deg)
+    }
+    40% {
+        clip: rect(3px, 9999px, 70px, 0);
+        transform: skew(0.59deg)
+    }
+    45% {
+        clip: rect(79px, 9999px, 94px, 0);
+        transform: skew(0.65deg)
+    }
+    50% {
+        clip: rect(24px, 9999px, 41px, 0);
+        transform: skew(0.87deg)
+    }
+    55% {
+        clip: rect(1px, 9999px, 94px, 0);
+        transform: skew(0.11deg)
+    }
+    60% {
+        clip: rect(2px, 9999px, 29px, 0);
+        transform: skew(0.7deg)
+    }
+    65% {
+        clip: rect(42px, 9999px, 61px, 0);
+        transform: skew(0.24deg)
+    }
+    70% {
+        clip: rect(55px, 9999px, 97px, 0);
+        transform: skew(0.6deg)
+    }
+    75% {
+        clip: rect(19px, 9999px, 98px, 0);
+        transform: skew(0.63deg)
+    }
+    80% {
+        clip: rect(39px, 9999px, 97px, 0);
+        transform: skew(0.35deg)
+    }
+    85% {
+        clip: rect(55px, 9999px, 56px, 0);
+        transform: skew(0.35deg)
+    }
+    90% {
+        clip: rect(86px, 9999px, 10px, 0);
+        transform: skew(0.14deg)
+    }
+    95% {
+        clip: rect(60px, 9999px, 82px, 0);
+        transform: skew(0.51deg)
+    }
+    100% {
+        clip: rect(81px, 9999px, 78px, 0);
+        transform: skew(0.32deg)
+    }
+}
+
+@keyframes glitch-skew {
+    0% {
+        transform: skew(2deg)
+    }
+    10% {
+        transform: skew(-4deg)
+    }
+    20% {
+        transform: skew(-2deg)
+    }
+    30% {
+        transform: skew(3deg)
+    }
+    40% {
+        transform: skew(4deg)
+    }
+    50% {
+        transform: skew(3deg)
+    }
+    60% {
+        transform: skew(0deg)
+    }
+    70% {
+        transform: skew(0deg)
+    }
+    80% {
+        transform: skew(3deg)
+    }
+    90% {
+        transform: skew(3deg)
+    }
+    100% {
+        transform: skew(-2deg)
+    }
+}
+
+.glitch {
+    position: relative;
+    animation: glitch-skew 1s infinite linear alternate-reverse
+}
+
+.glitch::before {
+    content: attr(data-text);
+    position: absolute;
+    left: 2px;
+    text-shadow: -2px 0 #ff00c1;
+    clip: rect(44px, 450px, 56px, 0);
+    animation: glitch-anim 5s infinite linear alternate-reverse
+}
+
+.glitch::after {
+    content: attr(data-text);
+    position: absolute;
+    left: -2px;
+    text-shadow: -2px 0 #00fff9, 2px 2px #ff00c1;
+    animation: glitch-anim2 1s infinite linear alternate-reverse
+}
+
+@keyframes glitch-anim {
+    0% {
+        clip: rect(75px, 9999px, 54px, 0);
+        transform: skew(0.28deg)
+    }
+    5% {
+        clip: rect(24px, 9999px, 60px, 0);
+        transform: skew(0.48deg)
+    }
+    10% {
+        clip: rect(8px, 9999px, 60px, 0);
+        transform: skew(0.61deg)
+    }
+    15% {
+        clip: rect(25px, 9999px, 41px, 0);
+        transform: skew(0.47deg)
+    }
+    20% {
+        clip: rect(14px, 9999px, 53px, 0);
+        transform: skew(0.07deg)
+    }
+    25% {
+        clip: rect(52px, 9999px, 32px, 0);
+        transform: skew(0.18deg)
+    }
+    30% {
+        clip: rect(88px, 9999px, 23px, 0);
+        transform: skew(0.42deg)
+    }
+    35% {
+        clip: rect(42px, 9999px, 43px, 0);
+        transform: skew(0.6deg)
+    }
+    40% {
+        clip: rect(37px, 9999px, 17px, 0);
+        transform: skew(0.6deg)
+    }
+    45% {
+        clip: rect(19px, 9999px, 96px, 0);
+        transform: skew(0.14deg)
+    }
+    50% {
+        clip: rect(97px, 9999px, 36px, 0);
+        transform: skew(0.8deg)
+    }
+    55% {
+        clip: rect(76px, 9999px, 24px, 0);
+        transform: skew(0.25deg)
+    }
+    60% {
+        clip: rect(1px, 9999px, 40px, 0);
+        transform: skew(0.92deg)
+    }
+    65% {
+        clip: rect(28px, 9999px, 84px, 0);
+        transform: skew(0.18deg)
+    }
+    70% {
+        clip: rect(59px, 9999px, 87px, 0);
+        transform: skew(0.31deg)
+    }
+    75% {
+        clip: rect(3px, 9999px, 71px, 0);
+        transform: skew(0.38deg)
+    }
+    80% {
+        clip: rect(9px, 9999px, 83px, 0);
+        transform: skew(0.37deg)
+    }
+    85% {
+        clip: rect(44px, 9999px, 23px, 0);
+        transform: skew(0.35deg)
+    }
+    90% {
+        clip: rect(97px, 9999px, 6px, 0);
+        transform: skew(0.13deg)
+    }
+    95% {
+        clip: rect(69px, 9999px, 97px, 0);
+        transform: skew(0.59deg)
+    }
+    100% {
+        clip: rect(69px, 9999px, 35px, 0);
+        transform: skew(0.42deg)
+    }
+}
+
+@keyframes glitch-anim2 {
+    0% {
+        clip: rect(26px, 9999px, 94px, 0);
+        transform: skew(0.29deg)
+    }
+    5% {
+        clip: rect(100px, 9999px, 49px, 0);
+        transform: skew(0.18deg)
+    }
+    10% {
+        clip: rect(8px, 9999px, 25px, 0);
+        transform: skew(0.68deg)
+    }
+    15% {
+        clip: rect(41px, 9999px, 71px, 0);
+        transform: skew(0.03deg)
+    }
+    20% {
+        clip: rect(42px, 9999px, 35px, 0);
+        transform: skew(0.81deg)
+    }
+    25% {
+        clip: rect(79px, 9999px, 26px, 0);
+        transform: skew(0.8deg)
+    }
+    30% {
+        clip: rect(74px, 9999px, 76px, 0);
+        transform: skew(0.25deg)
+    }
+    35% {
+        clip: rect(27px, 9999px, 64px, 0);
+        transform: skew(0.49deg)
+    }
+    40% {
+        clip: rect(3px, 9999px, 70px, 0);
+        transform: skew(0.59deg)
+    }
+    45% {
+        clip: rect(79px, 9999px, 94px, 0);
+        transform: skew(0.65deg)
+    }
+    50% {
+        clip: rect(24px, 9999px, 41px, 0);
+        transform: skew(0.87deg)
+    }
+    55% {
+        clip: rect(1px, 9999px, 94px, 0);
+        transform: skew(0.11deg)
+    }
+    60% {
+        clip: rect(2px, 9999px, 29px, 0);
+        transform: skew(0.7deg)
+    }
+    65% {
+        clip: rect(42px, 9999px, 61px, 0);
+        transform: skew(0.24deg)
+    }
+    70% {
+        clip: rect(55px, 9999px, 97px, 0);
+        transform: skew(0.6deg)
+    }
+    75% {
+        clip: rect(19px, 9999px, 98px, 0);
+        transform: skew(0.63deg)
+    }
+    80% {
+        clip: rect(39px, 9999px, 97px, 0);
+        transform: skew(0.35deg)
+    }
+    85% {
+        clip: rect(55px, 9999px, 56px, 0);
+        transform: skew(0.35deg)
+    }
+    90% {
+        clip: rect(86px, 9999px, 10px, 0);
+        transform: skew(0.14deg)
+    }
+    95% {
+        clip: rect(60px, 9999px, 82px, 0);
+        transform: skew(0.51deg)
+    }
+    100% {
+        clip: rect(81px, 9999px, 78px, 0);
+        transform: skew(0.32deg)
+    }
+}
+
+@keyframes glitch-skew {
+    0% {
+        transform: skew(2deg)
+    }
+    10% {
+        transform: skew(-4deg)
+    }
+    20% {
+        transform: skew(-2deg)
+    }
+    30% {
+        transform: skew(3deg)
+    }
+    40% {
+        transform: skew(4deg)
+    }
+    50% {
+        transform: skew(3deg)
+    }
+    60% {
+        transform: skew(0deg)
+    }
+    70% {
+        transform: skew(0deg)
+    }
+    80% {
+        transform: skew(3deg)
+    }
+    90% {
+        transform: skew(3deg)
+    }
+    100% {
+        transform: skew(-2deg)
+    }
+}
+
+.elementor-9030 .elementor-element.elementor-element-f25b2c7 {
+    z-index: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-f25b2c7:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 3px;
+    border-radius: 5px;
+    background: linear-gradient(-35deg, #169B90, transparent, transparent, #169B90);
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    border-radius: 5px;
+    margin: 0;
+    margin-top: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-f25b2c7 {
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px)
+}
+
+.elementor-9030 .elementor-element.elementor-element-67e63b4:before {
+    content: "";
+    position: absolute;
+    top: -15%;
+    left: inherit;
+    right: calc(50% - 300px);
+    width: 600px;
+    height: 600px;
+    background: #169b90;
+    border-radius: 100%;
+    filter: blur(150px);
+    mix-blend-mode: screen;
+    animation: light 5s infinite;
+    pointer-events: none;
+    opacity: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-67e63b4:after {
+    content: "";
+    position: absolute;
+    top: -15%;
+    left: inherit;
+    right: calc(50% - 900px);
+    width: 500px;
+    height: 500px;
+    background: #169b90;
+    border-radius: 100%;
+    filter: blur(200px);
+    mix-blend-mode: plus-lighter;
+    animation: light 5s 2s infinite;
+    pointer-events: none;
+    opacity: 0
+}
+
+@keyframes light {
+    0%, 100% {
+        opacity: 0
+    }
+    50% {
+        opacity: .6
+    }
+}
+
+body, html {
+    overflow-x: hidden !important;
+    -webkit-font-feature-settings: "lnum";
+    -moz-font-feature-settings: "lnum";
+    font-feature-settings: "lnum"
+}
+
+@media (max-width: 786px) {
+    body, html {
+        overflow-x: hidden !important
+    }
+}
+
+.elementor-9030 .elementor-element.elementor-element-0d3b46c .elementor-button-icon {
+    font-size: 20px
+}
+
+.elementor-9030 .elementor-element.elementor-element-0d3b46c .elementor-button-content-wrapper {
+    align-items: center
+}
+
+.botao {
+    animation: pulse .7s infinite
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(.98)
+    }
+    70% {
+        transform: scale(1)
+    }
+    100% {
+        transform: scale(.98)
+    }
+}
+
+.elementor-9030 .elementor-element.elementor-element-788f9dd {
+    z-index: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-788f9dd:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 3px;
+    border-radius: 5px;
+    background: linear-gradient(-35deg, #169B90, transparent, transparent, #169B90);
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    border-radius: 5px;
+    margin: 0;
+    margin-top: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-788f9dd {
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px)
+}
+
+.elementor-9030 .elementor-element.elementor-element-e308253 .elementor-divider-separator {
+    border-top: 1px solid;
+    border-image: linear-gradient(to right, transparent, #169B90, transparent) 1
+}
+
+.elementor-9030 .elementor-element.elementor-element-fe79f18 .elementor-button-icon {
+    font-size: 30px
+}
+
+.elementor-9030 .elementor-element.elementor-element-fe79f18 .elementor-button-content-wrapper {
+    align-items: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-7f59d83 {
+    z-index: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-7f59d83:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 3px;
+    border-radius: 5px;
+    background: linear-gradient(-35deg, #169B90, transparent, transparent, #169B90);
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    border-radius: 5px;
+    margin: 0;
+    margin-top: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-7f59d83 {
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px)
+}
+
+.elementor-9030 .elementor-element.elementor-element-faceea5 .elementor-divider-separator {
+    border-top: 1px solid;
+    border-image: linear-gradient(to right, transparent, #169B90, transparent) 1
+}
+
+.elementor-9030 .elementor-element.elementor-element-f095462 .elementor-button-icon {
+    font-size: 30px
+}
+
+.elementor-9030 .elementor-element.elementor-element-f095462 .elementor-button-content-wrapper {
+    align-items: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-f095462 .top-small-text {
+    font-size: 13px;
+    color: # #051415
+}
+
+.elementor-9030 .elementor-element.elementor-element-ab93fc7 {
+    z-index: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-ab93fc7:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 3px;
+    border-radius: 5px;
+    background: linear-gradient(-35deg, #169B90, transparent, transparent, #169B90);
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    border-radius: 5px;
+    margin: 0;
+    margin-top: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-ab93fc7 {
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px)
+}
+
+.elementor-9030 .elementor-element.elementor-element-6c1bd44 .elementor-divider-separator {
+    border-top: 1px solid;
+    border-image: linear-gradient(to right, transparent, #169B90, transparent) 1
+}
+
+.glitch {
+    position: relative;
+    animation: glitch-skew 1s infinite linear alternate-reverse
+}
+
+.glitch::before {
+    content: attr(data-text);
+    position: absolute;
+    left: 2px;
+    text-shadow: -2px 0 #ff00c1;
+    clip: rect(44px, 450px, 56px, 0);
+    animation: glitch-anim 5s infinite linear alternate-reverse
+}
+
+.glitch::after {
+    content: attr(data-text);
+    position: absolute;
+    left: -2px;
+    text-shadow: -2px 0 #00fff9, 2px 2px #ff00c1;
+    animation: glitch-anim2 1s infinite linear alternate-reverse
+}
+
+@keyframes glitch-anim {
+    0% {
+        clip: rect(75px, 9999px, 54px, 0);
+        transform: skew(0.28deg)
+    }
+    5% {
+        clip: rect(24px, 9999px, 60px, 0);
+        transform: skew(0.48deg)
+    }
+    10% {
+        clip: rect(8px, 9999px, 60px, 0);
+        transform: skew(0.61deg)
+    }
+    15% {
+        clip: rect(25px, 9999px, 41px, 0);
+        transform: skew(0.47deg)
+    }
+    20% {
+        clip: rect(14px, 9999px, 53px, 0);
+        transform: skew(0.07deg)
+    }
+    25% {
+        clip: rect(52px, 9999px, 32px, 0);
+        transform: skew(0.18deg)
+    }
+    30% {
+        clip: rect(88px, 9999px, 23px, 0);
+        transform: skew(0.42deg)
+    }
+    35% {
+        clip: rect(42px, 9999px, 43px, 0);
+        transform: skew(0.6deg)
+    }
+    40% {
+        clip: rect(37px, 9999px, 17px, 0);
+        transform: skew(0.6deg)
+    }
+    45% {
+        clip: rect(19px, 9999px, 96px, 0);
+        transform: skew(0.14deg)
+    }
+    50% {
+        clip: rect(97px, 9999px, 36px, 0);
+        transform: skew(0.8deg)
+    }
+    55% {
+        clip: rect(76px, 9999px, 24px, 0);
+        transform: skew(0.25deg)
+    }
+    60% {
+        clip: rect(1px, 9999px, 40px, 0);
+        transform: skew(0.92deg)
+    }
+    65% {
+        clip: rect(28px, 9999px, 84px, 0);
+        transform: skew(0.18deg)
+    }
+    70% {
+        clip: rect(59px, 9999px, 87px, 0);
+        transform: skew(0.31deg)
+    }
+    75% {
+        clip: rect(3px, 9999px, 71px, 0);
+        transform: skew(0.38deg)
+    }
+    80% {
+        clip: rect(9px, 9999px, 83px, 0);
+        transform: skew(0.37deg)
+    }
+    85% {
+        clip: rect(44px, 9999px, 23px, 0);
+        transform: skew(0.35deg)
+    }
+    90% {
+        clip: rect(97px, 9999px, 6px, 0);
+        transform: skew(0.13deg)
+    }
+    95% {
+        clip: rect(69px, 9999px, 97px, 0);
+        transform: skew(0.59deg)
+    }
+    100% {
+        clip: rect(69px, 9999px, 35px, 0);
+        transform: skew(0.42deg)
+    }
+}
+
+@keyframes glitch-anim2 {
+    0% {
+        clip: rect(26px, 9999px, 94px, 0);
+        transform: skew(0.29deg)
+    }
+    5% {
+        clip: rect(100px, 9999px, 49px, 0);
+        transform: skew(0.18deg)
+    }
+    10% {
+        clip: rect(8px, 9999px, 25px, 0);
+        transform: skew(0.68deg)
+    }
+    15% {
+        clip: rect(41px, 9999px, 71px, 0);
+        transform: skew(0.03deg)
+    }
+    20% {
+        clip: rect(42px, 9999px, 35px, 0);
+        transform: skew(0.81deg)
+    }
+    25% {
+        clip: rect(79px, 9999px, 26px, 0);
+        transform: skew(0.8deg)
+    }
+    30% {
+        clip: rect(74px, 9999px, 76px, 0);
+        transform: skew(0.25deg)
+    }
+    35% {
+        clip: rect(27px, 9999px, 64px, 0);
+        transform: skew(0.49deg)
+    }
+    40% {
+        clip: rect(3px, 9999px, 70px, 0);
+        transform: skew(0.59deg)
+    }
+    45% {
+        clip: rect(79px, 9999px, 94px, 0);
+        transform: skew(0.65deg)
+    }
+    50% {
+        clip: rect(24px, 9999px, 41px, 0);
+        transform: skew(0.87deg)
+    }
+    55% {
+        clip: rect(1px, 9999px, 94px, 0);
+        transform: skew(0.11deg)
+    }
+    60% {
+        clip: rect(2px, 9999px, 29px, 0);
+        transform: skew(0.7deg)
+    }
+    65% {
+        clip: rect(42px, 9999px, 61px, 0);
+        transform: skew(0.24deg)
+    }
+    70% {
+        clip: rect(55px, 9999px, 97px, 0);
+        transform: skew(0.6deg)
+    }
+    75% {
+        clip: rect(19px, 9999px, 98px, 0);
+        transform: skew(0.63deg)
+    }
+    80% {
+        clip: rect(39px, 9999px, 97px, 0);
+        transform: skew(0.35deg)
+    }
+    85% {
+        clip: rect(55px, 9999px, 56px, 0);
+        transform: skew(0.35deg)
+    }
+    90% {
+        clip: rect(86px, 9999px, 10px, 0);
+        transform: skew(0.14deg)
+    }
+    95% {
+        clip: rect(60px, 9999px, 82px, 0);
+        transform: skew(0.51deg)
+    }
+    100% {
+        clip: rect(81px, 9999px, 78px, 0);
+        transform: skew(0.32deg)
+    }
+}
+
+@keyframes glitch-skew {
+    0% {
+        transform: skew(2deg)
+    }
+    10% {
+        transform: skew(-4deg)
+    }
+    20% {
+        transform: skew(-2deg)
+    }
+    30% {
+        transform: skew(3deg)
+    }
+    40% {
+        transform: skew(4deg)
+    }
+    50% {
+        transform: skew(3deg)
+    }
+    60% {
+        transform: skew(0deg)
+    }
+    70% {
+        transform: skew(0deg)
+    }
+    80% {
+        transform: skew(3deg)
+    }
+    90% {
+        transform: skew(3deg)
+    }
+    100% {
+        transform: skew(-2deg)
+    }
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(.95)
+    }
+    70% {
+        transform: scale(1)
+    }
+    100% {
+        transform: scale(.95)
+    }
+}
+
+.elementor-9030 .elementor-element.elementor-element-080e29f {
+    animation: pulse .7s infinite
+}
+
+.elementor-9030 .elementor-element.elementor-element-080e29f .elementor-button-icon {
+    font-size: 30px
+}
+
+.elementor-9030 .elementor-element.elementor-element-080e29f .elementor-button-content-wrapper {
+    align-items: center
+}
+
+/* LUZES PISCANTES */
+.elementor-9030 .elementor-element.elementor-element-eb0cbeb:before {
+    content: "";
+    position: absolute;
+    top: -15%;
+    left: inherit;
+    right: calc(50% - 300px);
+    width: 600px;
+    height: 600px;
+    background: #f6f003;
+    border-radius: 100%;
+    filter: blur(150px);
+    mix-blend-mode: screen;
+    animation: light 5s infinite;
+    pointer-events: none;
+    opacity: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-eb0cbeb:after {
+    content: "";
+    position: absolute;
+    top: -15%;
+    left: inherit;
+    right: calc(50% - 900px);
+    width: 500px;
+    height: 500px;
+    background: #3bfc00;
+    border-radius: 100%;
+    filter: blur(200px);
+    mix-blend-mode: plus-lighter;
+    animation: light 5s 2s infinite;
+    pointer-events: none;
+    opacity: 0
+}
+
+@keyframes light {
+    0%, 100% {
+        opacity: 0
+    }
+    50% {
+        opacity: .6
+    }
+}
+
+body, html {
+    overflow-x: hidden !important;
+    -webkit-font-feature-settings: "lnum";
+    -moz-font-feature-settings: "lnum";
+    font-feature-settings: "lnum"
+}
+
+@media (max-width: 786px) {
+    body, html {
+        overflow-x: hidden !important
+    }
+}
+
+.glitch {
+    position: relative;
+    animation: glitch-skew 1s infinite linear alternate-reverse
+}
+
+.glitch::before {
+    content: attr(data-text);
+    position: absolute;
+    left: 2px;
+    text-shadow: -2px 0 #ff00c1;
+    clip: rect(44px, 450px, 56px, 0);
+    animation: glitch-anim 5s infinite linear alternate-reverse
+}
+
+.glitch::after {
+    content: attr(data-text);
+    position: absolute;
+    left: -2px;
+    text-shadow: -2px 0 #00fff9, 2px 2px #ff00c1;
+    animation: glitch-anim2 1s infinite linear alternate-reverse
+}
+
+@keyframes glitch-anim {
+    0% {
+        clip: rect(75px, 9999px, 54px, 0);
+        transform: skew(0.28deg)
+    }
+    5% {
+        clip: rect(24px, 9999px, 60px, 0);
+        transform: skew(0.48deg)
+    }
+    10% {
+        clip: rect(8px, 9999px, 60px, 0);
+        transform: skew(0.61deg)
+    }
+    15% {
+        clip: rect(25px, 9999px, 41px, 0);
+        transform: skew(0.47deg)
+    }
+    20% {
+        clip: rect(14px, 9999px, 53px, 0);
+        transform: skew(0.07deg)
+    }
+    25% {
+        clip: rect(52px, 9999px, 32px, 0);
+        transform: skew(0.18deg)
+    }
+    30% {
+        clip: rect(88px, 9999px, 23px, 0);
+        transform: skew(0.42deg)
+    }
+    35% {
+        clip: rect(42px, 9999px, 43px, 0);
+        transform: skew(0.6deg)
+    }
+    40% {
+        clip: rect(37px, 9999px, 17px, 0);
+        transform: skew(0.6deg)
+    }
+    45% {
+        clip: rect(19px, 9999px, 96px, 0);
+        transform: skew(0.14deg)
+    }
+    50% {
+        clip: rect(97px, 9999px, 36px, 0);
+        transform: skew(0.8deg)
+    }
+    55% {
+        clip: rect(76px, 9999px, 24px, 0);
+        transform: skew(0.25deg)
+    }
+    60% {
+        clip: rect(1px, 9999px, 40px, 0);
+        transform: skew(0.92deg)
+    }
+    65% {
+        clip: rect(28px, 9999px, 84px, 0);
+        transform: skew(0.18deg)
+    }
+    70% {
+        clip: rect(59px, 9999px, 87px, 0);
+        transform: skew(0.31deg)
+    }
+    75% {
+        clip: rect(3px, 9999px, 71px, 0);
+        transform: skew(0.38deg)
+    }
+    80% {
+        clip: rect(9px, 9999px, 83px, 0);
+        transform: skew(0.37deg)
+    }
+    85% {
+        clip: rect(44px, 9999px, 23px, 0);
+        transform: skew(0.35deg)
+    }
+    90% {
+        clip: rect(97px, 9999px, 6px, 0);
+        transform: skew(0.13deg)
+    }
+    95% {
+        clip: rect(69px, 9999px, 97px, 0);
+        transform: skew(0.59deg)
+    }
+    100% {
+        clip: rect(69px, 9999px, 35px, 0);
+        transform: skew(0.42deg)
+    }
+}
+
+@keyframes glitch-anim2 {
+    0% {
+        clip: rect(26px, 9999px, 94px, 0);
+        transform: skew(0.29deg)
+    }
+    5% {
+        clip: rect(100px, 9999px, 49px, 0);
+        transform: skew(0.18deg)
+    }
+    10% {
+        clip: rect(8px, 9999px, 25px, 0);
+        transform: skew(0.68deg)
+    }
+    15% {
+        clip: rect(41px, 9999px, 71px, 0);
+        transform: skew(0.03deg)
+    }
+    20% {
+        clip: rect(42px, 9999px, 35px, 0);
+        transform: skew(0.81deg)
+    }
+    25% {
+        clip: rect(79px, 9999px, 26px, 0);
+        transform: skew(0.8deg)
+    }
+    30% {
+        clip: rect(74px, 9999px, 76px, 0);
+        transform: skew(0.25deg)
+    }
+    35% {
+        clip: rect(27px, 9999px, 64px, 0);
+        transform: skew(0.49deg)
+    }
+    40% {
+        clip: rect(3px, 9999px, 70px, 0);
+        transform: skew(0.59deg)
+    }
+    45% {
+        clip: rect(79px, 9999px, 94px, 0);
+        transform: skew(0.65deg)
+    }
+    50% {
+        clip: rect(24px, 9999px, 41px, 0);
+        transform: skew(0.87deg)
+    }
+    55% {
+        clip: rect(1px, 9999px, 94px, 0);
+        transform: skew(0.11deg)
+    }
+    60% {
+        clip: rect(2px, 9999px, 29px, 0);
+        transform: skew(0.7deg)
+    }
+    65% {
+        clip: rect(42px, 9999px, 61px, 0);
+        transform: skew(0.24deg)
+    }
+    70% {
+        clip: rect(55px, 9999px, 97px, 0);
+        transform: skew(0.6deg)
+    }
+    75% {
+        clip: rect(19px, 9999px, 98px, 0);
+        transform: skew(0.63deg)
+    }
+    80% {
+        clip: rect(39px, 9999px, 97px, 0);
+        transform: skew(0.35deg)
+    }
+    85% {
+        clip: rect(55px, 9999px, 56px, 0);
+        transform: skew(0.35deg)
+    }
+    90% {
+        clip: rect(86px, 9999px, 10px, 0);
+        transform: skew(0.14deg)
+    }
+    95% {
+        clip: rect(60px, 9999px, 82px, 0);
+        transform: skew(0.51deg)
+    }
+    100% {
+        clip: rect(81px, 9999px, 78px, 0);
+        transform: skew(0.32deg)
+    }
+}
+
+@keyframes glitch-skew {
+    0% {
+        transform: skew(2deg)
+    }
+    10% {
+        transform: skew(-4deg)
+    }
+    20% {
+        transform: skew(-2deg)
+    }
+    30% {
+        transform: skew(3deg)
+    }
+    40% {
+        transform: skew(4deg)
+    }
+    50% {
+        transform: skew(3deg)
+    }
+    60% {
+        transform: skew(0deg)
+    }
+    70% {
+        transform: skew(0deg)
+    }
+    80% {
+        transform: skew(3deg)
+    }
+    90% {
+        transform: skew(3deg)
+    }
+    100% {
+        transform: skew(-2deg)
+    }
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(.95)
+    }
+    70% {
+        transform: scale(1)
+    }
+    100% {
+        transform: scale(.95)
+    }
+}
+
+.elementor-9030 .elementor-element.elementor-element-21c1ed9 {
+    animation: pulse .7s infinite
+}
+
+.elementor-9030 .elementor-element.elementor-element-21c1ed9 .elementor-button-icon {
+    font-size: 30px
+}
+
+.elementor-9030 .elementor-element.elementor-element-21c1ed9 .elementor-button-content-wrapper {
+    align-items: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-bac84ec {
+    z-index: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-bac84ec:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 3px;
+    border-radius: 5px;
+    background: linear-gradient(-35deg, #169B90, transparent, transparent, #169B90);
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    border-radius: 5px;
+    margin: 0;
+    margin-top: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-bac84ec {
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px)
+}
+
+.elementor-9030 .elementor-element.elementor-element-cbe456b .elementor-divider-separator {
+    border-top: 1px solid;
+    border-image: linear-gradient(to right, transparent, #169B90, transparent) 1
+}
+
+.elementor-9030 .elementor-element.elementor-element-d254df5 {
+    z-index: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-d254df5:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 3px;
+    border-radius: 5px;
+    background: linear-gradient(-35deg, #169B90, transparent, transparent, #169B90);
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    border-radius: 5px;
+    margin: 0;
+    margin-top: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-d254df5 {
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px)
+}
+
+.elementor-9030 .elementor-element.elementor-element-0d13d0d .elementor-divider-separator {
+    border-top: 1px solid;
+    border-image: linear-gradient(to right, transparent, #169B90, transparent) 1
+}
+
+.elementor-9030 .elementor-element.elementor-element-3e2e183 {
+    z-index: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-3e2e183:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 3px;
+    border-radius: 5px;
+    background: linear-gradient(-35deg, #169B90, transparent, transparent, #169B90);
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    border-radius: 5px;
+    margin: 0;
+    margin-top: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-3e2e183 {
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px)
+}
+
+.elementor-9030 .elementor-element.elementor-element-a393bf0 .elementor-divider-separator {
+    border-top: 1px solid;
+    border-image: linear-gradient(to right, transparent, #169B90, transparent) 1
+}
+
+.elementor-9030 .elementor-element.elementor-element-f7757e8 {
+    z-index: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-f7757e8:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 3px;
+    border-radius: 5px;
+    background: linear-gradient(-35deg, #169B90, transparent, transparent, #169B90);
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    border-radius: 5px;
+    margin: 0;
+    margin-top: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-f7757e8 {
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px)
+}
+
+.elementor-9030 .elementor-element.elementor-element-e005b3b .elementor-divider-separator {
+    border-top: 1px solid;
+    border-image: linear-gradient(to right, transparent, #169B90, transparent) 1
+}
+
+.elementor-9030 .elementor-element.elementor-element-e0ffd40 {
+    z-index: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-e0ffd40:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 3px;
+    border-radius: 5px;
+    background: linear-gradient(-35deg, #169B90, transparent, transparent, #169B90);
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    border-radius: 5px;
+    margin: 0;
+    margin-top: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-e0ffd40 {
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px)
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(.95)
+    }
+    70% {
+        transform: scale(1)
+    }
+    100% {
+        transform: scale(.95)
+    }
+}
+
+.elementor-9030 .elementor-element.elementor-element-343d2d8 {
+    animation: pulse .7s infinite
+}
+
+.elementor-9030 .elementor-element.elementor-element-343d2d8 .elementor-button-icon {
+    font-size: 30px
+}
+
+.elementor-9030 .elementor-element.elementor-element-343d2d8 .elementor-button-content-wrapper {
+    align-items: center
+}
+
+.elementor-9030 .elementor-element.elementor-element-b93b8c6:before {
+    content: "";
+    position: absolute;
+    top: -15%;
+    left: inherit;
+    right: calc(50% - 300px);
+    width: 600px;
+    height: 600px;
+    background: #169b90;
+    border-radius: 100%;
+    filter: blur(150px);
+    mix-blend-mode: screen;
+    animation: light 5s infinite;
+    pointer-events: none;
+    opacity: 0
+}
+
+.elementor-9030 .elementor-element.elementor-element-b93b8c6:after {
+    content: "";
+    position: absolute;
+    top: -15%;
+    left: inherit;
+    right: calc(50% - 900px);
+    width: 500px;
+    height: 500px;
+    background: #169b90;
+    border-radius: 100%;
+    filter: blur(200px);
+    mix-blend-mode: plus-lighter;
+    animation: light 5s 2s infinite;
+    pointer-events: none;
+    opacity: 0
+}
+
+@keyframes light {
+    0%, 100% {
+        opacity: 0
+    }
+    50% {
+        opacity: .6
+    }
+}
+
+body, html {
+    overflow-x: hidden !important;
+    -webkit-font-feature-settings: "lnum";
+    -moz-font-feature-settings: "lnum";
+    font-feature-settings: "lnum"
+}
+
+@media (max-width: 786px) {
+    body, html {
+        overflow-x: hidden !important
+    }
+}
+
+.elementor-9030 .elementor-element.elementor-element-a9707ee {
+    transition: all .5s ease
+}
+
+.elementor-9030 .elementor-element.elementor-element-a9707ee .elementor-divider-separator {
+    border-radius: 50px
+}
+
+.elementor-9030 .elementor-element.elementor-element-1c48a490 {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    cursor: pointer;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    -moz-backdrop-filter: blur(5px);
+    -ms-backdrop-filter: blur(5px)
+}

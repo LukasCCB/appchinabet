@@ -1,0 +1,593 @@
+.elementor-537 .elementor-element.elementor-element-67e63b4 > .elementor-container {
+    max-width: 720px;
+    min-height: 100vh
+}
+
+.elementor-537 .elementor-element.elementor-element-67e63b4 > .elementor-background-overlay {
+    background-image: url(../../img/background-img.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .6
+}
+
+.elementor-537 .elementor-element.elementor-element-8d6e32a {
+    text-align: center;
+    color: #efeeed;
+    font-family: roboto, Sans-serif;
+    font-size: 35px;
+    font-weight: 600;
+    text-transform: uppercase
+}
+
+.elementor-537 .elementor-element.elementor-element-596a358 img {
+    max-width: 160px;
+    opacity: .9
+}
+
+.elementor-537 .elementor-element.elementor-element-721f43b {
+    text-align: center;
+    color: #fff;
+    font-family: roboto, Sans-serif;
+    font-size: 22px;
+    font-weight: 500
+}
+
+.elementor-537 .elementor-element.elementor-element-0cc1125 > .elementor-container {
+    max-width: 430px
+}
+
+.elementor-537 .elementor-element.elementor-element-0cc1125 {
+    margin-top: -20px;
+    margin-bottom: 0
+}
+
+.elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-field-group {
+    padding-right: calc(10px / 2);
+    padding-left: calc(10px / 2);
+    margin-bottom: 10px
+}
+
+.elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-form-fields-wrapper {
+    margin-left: calc(-10px / 2);
+    margin-right: calc(-10px / 2);
+    margin-bottom: -10px
+}
+
+.elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-field-group.recaptcha_v3-bottomleft, .elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-field-group.recaptcha_v3-bottomright {
+    margin-bottom: 0
+}
+
+body.rtl .elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-labels-inline .elementor-field-group > label {
+    padding-left: 0
+}
+
+body:not(.rtl) .elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-labels-inline .elementor-field-group > label {
+    padding-right: 0
+}
+
+body .elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-labels-above .elementor-field-group > label {
+    padding-bottom: 0
+}
+
+.elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-field-group > label, .elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-field-subgroup label {
+    color: #dedede
+}
+
+.elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-field-type-html {
+    padding-bottom: 0;
+    font-family: roboto, Sans-serif;
+    font-weight: 400
+}
+
+.elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-field-group .elementor-field {
+    color: #fff
+}
+
+.elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-field-group .elementor-field, .elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-field-subgroup label {
+    font-family: roboto, Sans-serif;
+    font-size: 16px;
+    font-weight: 400
+}
+
+.elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper) {
+    background-color: #051415;
+    border-color: #169b907a;
+    border-width: 1px;
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-field-group .elementor-select-wrapper select {
+    background-color: #051415;
+    border-color: #169b907a;
+    border-width: 1px;
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-field-group .elementor-select-wrapper::before {
+    color: #169b907a
+}
+
+.elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-button {
+    font-family: roboto, Sans-serif;
+    font-weight: 600;
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-537 .elementor-element.elementor-element-d5ecb0d .e-form__buttons__wrapper__button-next {
+    background-color: #f29a17;
+    color: #051415
+}
+
+/* COR BUTTON ACESSAR */
+.elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-button[type=submit] {
+    background-color: #f29a17;
+    /* color: #051415 */
+    color: #000000
+}
+
+.elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-button[type=submit] svg * {
+    fill: #051415
+}
+
+.elementor-537 .elementor-element.elementor-element-d5ecb0d .e-form__buttons__wrapper__button-previous {
+    background-color: #fff;
+    color: #000
+}
+
+.elementor-537 .elementor-element.elementor-element-d5ecb0d .e-form__buttons__wrapper__button-next:hover {
+    background-color: #fff;
+    /* color: #000 */
+    color: #000000
+}
+
+.elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-button[type=submit]:hover {
+    background-color: #fff;
+    color: #000000
+}
+
+.elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-button[type=submit]:hover svg * {
+    fill: #000
+}
+
+.elementor-537 .elementor-element.elementor-element-d5ecb0d .e-form__buttons__wrapper__button-previous:hover {
+    background-color: #fff;
+    color: #000000
+}
+
+.elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-message.elementor-message-success {
+    color: #00000000
+}
+
+.elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-message.elementor-message-danger {
+    color: #00000000
+}
+
+.elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-message.elementor-help-inline {
+    color: #00000000
+}
+
+.elementor-537 .elementor-element.elementor-element-d5ecb0d {
+    --e-form-steps-indicators-spacing: 20px;
+    --e-form-steps-indicator-padding: 30px;
+    --e-form-steps-indicator-inactive-secondary-color: #ffffff;
+    --e-form-steps-indicator-active-secondary-color: #ffffff;
+    --e-form-steps-indicator-completed-secondary-color: #ffffff;
+    --e-form-steps-divider-width: 1px;
+    --e-form-steps-divider-gap: 10px
+}
+
+.elementor-537 .elementor-element.elementor-element-fe5f497 {
+    --divider-border-style: solid;
+    --divider-color: #FFFFFF;
+    --divider-border-width: 1px
+}
+
+.elementor-537 .elementor-element.elementor-element-fe5f497 .elementor-divider-separator {
+    width: 100%
+}
+
+.elementor-537 .elementor-element.elementor-element-550221b {
+    text-align: center;
+    color: #fff;
+    font-family: roboto, Sans-serif;
+    font-size: 16px;
+    font-weight: 400
+}
+
+/* BUTTON SOLICITAR ACESSO */
+.elementor-537 .elementor-element.elementor-element-fbaaff0 .elementor-button {
+    font-family: roboto, Sans-serif;
+    font-weight: 500;
+    fill: #eaeaea;
+    color: #030303;
+    background-color: transparent;
+    background-image: linear-gradient(195deg, #fdd015 0%, #fdd015 100%);
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: #21c838;
+    border-radius: 6px 6px 6px 6px
+}
+
+.elementor-537 .elementor-element.elementor-element-fbaaff0 > .elementor-widget-container {
+    margin: -15px 0 0
+}
+
+body.elementor-page-537:not(.elementor-motion-effects-element-type-background), body.elementor-page-537 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #000
+}
+
+@media (max-width: 767px) {
+    .elementor-537 .elementor-element.elementor-element-67e63b4 > .elementor-container {
+        min-height: 100vh
+    }
+
+    .elementor-537 .elementor-element.elementor-element-67e63b4 > .elementor-background-overlay {
+        background-image: url(https://hackerdabet.com/wp-content/uploads/2023/06/splash-bg.jpg)
+    }
+
+    .elementor-537 .elementor-element.elementor-element-8d6e32a {
+        font-size: 33px;
+        z-index: 1
+    }
+
+    .elementor-537 .elementor-element.elementor-element-596a358 img {
+        width: 60%
+    }
+
+    .elementor-537 .elementor-element.elementor-element-596a358 > .elementor-widget-container {
+        margin: -15px 0 0
+    }
+
+    .elementor-537 .elementor-element.elementor-element-721f43b {
+        text-align: left;
+        font-size: 16px
+    }
+
+    .elementor-537 .elementor-element.elementor-element-721f43b > .elementor-widget-container {
+        margin: 0 0 0 10px
+    }
+
+    .elementor-537 .elementor-element.elementor-element-0cc1125 {
+        margin-top: -20px;
+        margin-bottom: 0
+    }
+
+    .elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-field-group .elementor-field, .elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-field-subgroup label {
+        font-size: 16px
+    }
+
+    .elementor-537 .elementor-element.elementor-element-d5ecb0d .elementor-button {
+        font-size: 16px
+    }
+
+    .elementor-537 .elementor-element.elementor-element-550221b {
+        text-align: center;
+        font-size: 16px
+    }
+
+    .elementor-537 .elementor-element.elementor-element-550221b > .elementor-widget-container {
+        margin: 0 0 0 10px
+    }
+
+    .elementor-537 .elementor-element.elementor-element-fbaaff0 .elementor-button {
+        font-size: 16px;
+        padding: 15px 4px 10px 5px
+    }
+}
+
+.backdrop-bg:before {
+    backdrop-filter: blur(8px);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    content: "";
+    animation: bgDrop 4000ms forwards ease
+}
+
+@keyframes bgDrop {
+    from {
+        backdrop-filter: blur(0px)
+    }
+    to {
+        backdrop-filter: blur(10px)
+    }
+}
+
+.glitch {
+    position: relative;
+    color: #fff;
+    font-size: 1em;
+    animation: glitch-anim 5s infinite linear alternate-reverse
+}
+
+.glitch::after {
+    content: attr(data-text);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    left: -2px;
+    text-shadow: -2px 0 #00fff9, 2px 2px #ff00c1;
+    animation: glitch-anim2 1s infinite linear alternate-reverse
+}
+
+@keyframes glitch-anim {
+    0% {
+        clip: rect(75px, 9999px, 54px, 0);
+        transform: skew(0.28deg)
+    }
+    5% {
+        clip: rect(24px, 9999px, 60px, 0);
+        transform: skew(0.48deg)
+    }
+    10% {
+        clip: rect(8px, 9999px, 60px, 0);
+        transform: skew(0.61deg)
+    }
+    15% {
+        clip: rect(25px, 9999px, 41px, 0);
+        transform: skew(0.47deg)
+    }
+    20% {
+        clip: rect(14px, 9999px, 53px, 0);
+        transform: skew(0.07deg)
+    }
+    25% {
+        clip: rect(52px, 9999px, 32px, 0);
+        transform: skew(0.18deg)
+    }
+    30% {
+        clip: rect(88px, 9999px, 23px, 0);
+        transform: skew(0.42deg)
+    }
+    35% {
+        clip: rect(42px, 9999px, 43px, 0);
+        transform: skew(0.6deg)
+    }
+    40% {
+        clip: rect(37px, 9999px, 17px, 0);
+        transform: skew(0.6deg)
+    }
+    45% {
+        clip: rect(19px, 9999px, 96px, 0);
+        transform: skew(0.14deg)
+    }
+    50% {
+        clip: rect(97px, 9999px, 36px, 0);
+        transform: skew(0.8deg)
+    }
+    55% {
+        clip: rect(76px, 9999px, 24px, 0);
+        transform: skew(0.25deg)
+    }
+    60% {
+        clip: rect(1px, 9999px, 40px, 0);
+        transform: skew(0.92deg)
+    }
+    65% {
+        clip: rect(28px, 9999px, 84px, 0);
+        transform: skew(0.18deg)
+    }
+    70% {
+        clip: rect(59px, 9999px, 87px, 0);
+        transform: skew(0.31deg)
+    }
+    75% {
+        clip: rect(3px, 9999px, 71px, 0);
+        transform: skew(0.38deg)
+    }
+    80% {
+        clip: rect(9px, 9999px, 83px, 0);
+        transform: skew(0.37deg)
+    }
+    85% {
+        clip: rect(44px, 9999px, 23px, 0);
+        transform: skew(0.35deg)
+    }
+    90% {
+        clip: rect(97px, 9999px, 6px, 0);
+        transform: skew(0.13deg)
+    }
+    95% {
+        clip: rect(69px, 9999px, 97px, 0);
+        transform: skew(0.59deg)
+    }
+    100% {
+        clip: rect(69px, 9999px, 35px, 0);
+        transform: skew(0.42deg)
+    }
+}
+
+@keyframes glitch-anim2 {
+    0% {
+        clip: rect(26px, 9999px, 94px, 0);
+        transform: skew(0.29deg)
+    }
+    5% {
+        clip: rect(100px, 9999px, 49px, 0);
+        transform: skew(0.18deg)
+    }
+    10% {
+        clip: rect(8px, 9999px, 25px, 0);
+        transform: skew(0.68deg)
+    }
+    15% {
+        clip: rect(41px, 9999px, 71px, 0);
+        transform: skew(0.03deg)
+    }
+    20% {
+        clip: rect(42px, 9999px, 35px, 0);
+        transform: skew(0.81deg)
+    }
+    25% {
+        clip: rect(79px, 9999px, 26px, 0);
+        transform: skew(0.8deg)
+    }
+    30% {
+        clip: rect(74px, 9999px, 76px, 0);
+        transform: skew(0.25deg)
+    }
+    35% {
+        clip: rect(27px, 9999px, 64px, 0);
+        transform: skew(0.49deg)
+    }
+    40% {
+        clip: rect(3px, 9999px, 70px, 0);
+        transform: skew(0.59deg)
+    }
+    45% {
+        clip: rect(79px, 9999px, 94px, 0);
+        transform: skew(0.65deg)
+    }
+    50% {
+        clip: rect(24px, 9999px, 41px, 0);
+        transform: skew(0.87deg)
+    }
+    55% {
+        clip: rect(1px, 9999px, 94px, 0);
+        transform: skew(0.11deg)
+    }
+    60% {
+        clip: rect(2px, 9999px, 29px, 0);
+        transform: skew(0.7deg)
+    }
+    65% {
+        clip: rect(42px, 9999px, 61px, 0);
+        transform: skew(0.24deg)
+    }
+    70% {
+        clip: rect(55px, 9999px, 97px, 0);
+        transform: skew(0.6deg)
+    }
+    75% {
+        clip: rect(19px, 9999px, 98px, 0);
+        transform: skew(0.63deg)
+    }
+    80% {
+        clip: rect(39px, 9999px, 97px, 0);
+        transform: skew(0.35deg)
+    }
+    85% {
+        clip: rect(55px, 9999px, 56px, 0);
+        transform: skew(0.35deg)
+    }
+    90% {
+        clip: rect(86px, 9999px, 10px, 0);
+        transform: skew(0.14deg)
+    }
+    95% {
+        clip: rect(60px, 9999px, 82px, 0);
+        transform: skew(0.51deg)
+    }
+    100% {
+        clip: rect(81px, 9999px, 78px, 0);
+        transform: skew(0.32deg)
+    }
+}
+
+@keyframes glitch-skew {
+    0% {
+        transform: skew(2deg)
+    }
+    10% {
+        transform: skew(-4deg)
+    }
+    20% {
+        transform: skew(-2deg)
+    }
+    30% {
+        transform: skew(3deg)
+    }
+    40% {
+        transform: skew(4deg)
+    }
+    50% {
+        transform: skew(3deg)
+    }
+    60% {
+        transform: skew(0deg)
+    }
+    70% {
+        transform: skew(0deg)
+    }
+    80% {
+        transform: skew(3deg)
+    }
+    90% {
+        transform: skew(3deg)
+    }
+    100% {
+        transform: skew(-2deg)
+    }
+}
+
+/* BUTTON ACESSAR */
+.elementor-button {
+    /* background-image: linear-gradient(195deg, #54caa0 0%, #169b90 100%) */
+    background-image: linear-gradient(195deg, #fdd015 0%, #0e5e33 100%)
+}
+
+.elementor-537 .elementor-element.elementor-element-fe5f497 .elementor-divider-separator {
+    border-top: 1px solid;
+    border-image: linear-gradient(to right, transparent, #169b90, transparent) 1
+}
+
+.elementor-537 .elementor-element.elementor-element-67e63b4:before {
+    content: "";
+    position: absolute;
+    top: -15%;
+    left: inherit;
+    right: calc(50% - 300px);
+    width: 600px;
+    height: 600px;
+    background: linear-gradient(195deg, #f6f003 0%, #3bfc00 100%);
+    border-radius: 100%;
+    filter: blur(150px);
+    mix-blend-mode: screen;
+    animation: light 5s infinite;
+    pointer-events: none;
+    opacity: 0
+}
+
+.elementor-537 .elementor-element.elementor-element-67e63b4:after {
+    content: "";
+    position: absolute;
+    top: -15%;
+    left: inherit;
+    right: calc(50% - 900px);
+    width: 500px;
+    height: 500px;
+    background: linear-gradient(195deg, #f6f003 0%, #3bfc00 100%);
+    border-radius: 100%;
+    filter: blur(200px);
+    mix-blend-mode: plus-lighter;
+    animation: light 5s 2s infinite;
+    pointer-events: none;
+    opacity: 0
+}
+
+@keyframes light {
+    0%, 100% {
+        opacity: 0
+    }
+    50% {
+        opacity: .6
+    }
+}
+
+body, html {
+    overflow-x: hidden !important;
+    -webkit-font-feature-settings: "lnum";
+    -moz-font-feature-settings: "lnum";
+    font-feature-settings: "lnum"
+}
+
+@media (max-width: 786px) {
+    body, html {
+        overflow-x: hidden !important
+    }
+}
