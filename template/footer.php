@@ -24,6 +24,32 @@
             overlay.style.display = "none";
             content.style.display = "";
         }, 3000);
+
+        console.log('Evite cópias! %c WWW.WEBZOW.COM', 'background:#7266ba;color:#fff');
+        console.log('Evite cópias! %c WWW.WEBZOW.COM', 'background:#7266ba;color:#fff');
+        console.log('Evite cópias! %c WWW.WEBZOW.COM', 'background:#7266ba;color:#fff');
+        console.log('Evite cópias! %c WWW.WEBZOW.COM', 'background:#7266ba;color:#fff');
+        console.log('Evite cópias! %c WWW.WEBZOW.COM', 'background:#7266ba;color:#fff');
+        console.log('Evite cópias! %c WWW.WEBZOW.COM', 'background:#7266ba;color:#fff');
+        console.log('Evite cópias! %c WWW.WEBZOW.COM', 'background:#7266ba;color:#fff');
+        console.log('Evite cópias! %c WWW.WEBZOW.COM', 'background:#7266ba;color:#fff');
+        console.log('Evite cópias! %c WWW.WEBZOW.COM', 'background:#7266ba;color:#fff');
+        console.log('Evite cópias! %c WWW.WEBZOW.COM', 'background:#7266ba;color:#fff');
+        console.log('Evite cópias! %c WWW.WEBZOW.COM', 'background:#7266ba;color:#fff');
+        console.log('Evite cópias! %c WWW.WEBZOW.COM', 'background:#7266ba;color:#fff');
+        console.log('Evite cópias! %c WWW.WEBZOW.COM', 'background:#7266ba;color:#fff');
+        console.log('Evite cópias! %c WWW.WEBZOW.COM', 'background:#7266ba;color:#fff');
+        console.log('Evite cópias! %c WWW.WEBZOW.COM', 'background:#7266ba;color:#fff');
+        console.log('Evite cópias! %c WWW.WEBZOW.COM', 'background:#7266ba;color:#fff');
+        console.log('Evite cópias! %c WWW.WEBZOW.COM', 'background:#7266ba;color:#fff');
+        console.log('Evite cópias! %c WWW.WEBZOW.COM', 'background:#7266ba;color:#fff');
+        console.log('Evite cópias! %c WWW.WEBZOW.COM', 'background:#7266ba;color:#fff');
+        console.log('Evite cópias! %c WWW.WEBZOW.COM', 'background:#7266ba;color:#fff');
+        console.log('Evite cópias! %c WWW.WEBZOW.COM', 'background:#7266ba;color:#fff');
+        console.log('Evite cópias! %c WWW.WEBZOW.COM', 'background:#7266ba;color:#fff');
+        console.log('Evite cópias! %c WWW.WEBZOW.COM', 'background:#7266ba;color:#fff');
+        console.log('Evite cópias! %c WWW.WEBZOW.COM', 'background:#7266ba;color:#fff');
+
     });
 </script>
 
